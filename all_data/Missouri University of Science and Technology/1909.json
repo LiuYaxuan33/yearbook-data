@@ -1,0 +1,825 @@
+[
+  {
+    "name": "Anderson, H. George Sylvester",
+    "nicknames": [
+      "Red"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Brace up! Be not disheartened, I still like you!\" the maiden said; \"Though you have bright blue eyes And hair of deepest red.\"",
+    "birthday": "",
+    "hometown": "Kearney, Neb.",
+    "enrolltime": "1905",
+    "major": "Senior",
+    "clubs": [
+      "K A",
+      "TBП",
+      "President Tau Beta Pi, '07-'08",
+      "Vice-President Freshman Class '05-'06",
+      "'Varsity Baseball Team '07-'08",
+      "B. S. School of Mines"
+    ],
+    "description": "This gentleman is generally known as \"Red,\" but is seldom called such to his face, especially by small men. Andy has many good traits, one of which is self-reliance, which, as Emerson says, is the basis of good manners. Andy needs no guardian, unless it is when he is in love. Proud to have been a member of the Class of 1908.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Brace up! Be not disheartened, I still like you!\" the maiden said; \"Though you have bright blue eyes And hair of deepest red.\"\nThis gentleman is generally known as \"Red,\" but is seldom called such to his face, especially by small men. Andy has many good traits, one of which is self-reliance, which, as Emerson says, is the basis of good manners. Andy needs no guardian, unless it is when he is in love. Proud to have been a member of the Class of 1908.",
+    "Appearance": "0.6",
+    "Character_Personality": "0.8",
+    "Ability": "0.3"
+  },
+  {
+    "name": "Baueris, William Albert",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"He hath a heart as sound as a bell, and his tongue the clapper; for what his heart thinks, his tongue speaks.\"",
+    "birthday": "",
+    "hometown": "Chicago, Ill.",
+    "enrolltime": "1905",
+    "major": "Senior",
+    "clubs": [
+      "K A",
+      "TBП",
+      "Assistant in Surveying '07 to '09",
+      "Manager Baseball Team '07",
+      "'Varsity Baseball Team '07",
+      "Rollamo Board '08"
+    ],
+    "description": "Feels it his duty to conceal his happiness by assuming a grouch at times, but it is only when he is really happy that the grouch is assumed. Was Assistant in Surveying for some time, not because he needed the money, but because he thought that the Sophs needed the instruction. Has an antipathy to small things; bugs, beetles, and Freshmen.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"He hath a heart as sound as a bell, and his tongue the clapper; for what his heart thinks, his tongue speaks.\"\nFeels it his duty to conceal his happiness by assuming a grouch at times, but it is only when he is really happy that the grouch is assumed. Was Assistant in Surveying for some time, not because he needed the money, but because he thought that the Sophs needed the instruction. Has an antipathy to small things; bugs, beetles, and Freshmen.",
+    "Appearance": "0.0",
+    "Character_Personality": "1.0",
+    "Ability": "0.3"
+  },
+  {
+    "name": "Beard, John W.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Whiskers.\"",
+    "birthday": "",
+    "hometown": "Syracuse, N. Y.",
+    "enrolltime": "1908",
+    "major": "Senior",
+    "clubs": [
+      "TBП",
+      "C. E. Syracuse University"
+    ],
+    "description": "A great Civil Engineer with a never-satiated desire to fuss. Loves the kindergarten girls. Too long at College. Insists on talking bad Spanish. Is a very hard worker, and, next to a Rolla beef-steak he is the hardest thing to beat this side of the Red Sea. Is a good fellow in spite of his faults.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Whiskers.\"\nA great Civil Engineer with a never-satiated desire to fuss. Loves the kindergarten girls. Too long at College. Insists on talking bad Spanish. Is a very hard worker, and, next to a Rolla beef-steak he is the hardest thing to beat this side of the Red Sea. Is a good fellow in spite of his faults.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.9",
+    "Ability": "0.8"
+  },
+  {
+    "name": "Boyer, Fred",
+    "nicknames": [
+      "ONE"
+    ],
+    "gender": "Male",
+    "high school": "Central High School, St. Louis",
+    "motto": "\"Could I love less, I should be happier.\"",
+    "birthday": "",
+    "hometown": "St. Louis, Mo.",
+    "enrolltime": "1904",
+    "major": "Senior",
+    "clubs": [
+      "Track Team 1906-8",
+      "Manager 1909"
+    ],
+    "description": "Wants it to be distinctly understood that he had nothing to do with the various Great Ice Cream Robberies that have startled the neighborhood. Neither was he in any way connected with the abstraction of Volume 36. Ordinarily known as Boogher, and is first lieutenant to Clay Gregory. Falls in love periodically, and these attacks are generally followed by periods of almost complete sanity.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Could I love less, I should be happier.\"\nWants it to be distinctly understood that he had nothing to do with the various Great Ice Cream Robberies that have startled the neighborhood. Neither was he in any way connected with the abstraction of Volume 36. Ordinarily known as Boogher, and is first lieutenant to Clay Gregory. Falls in love periodically, and these attacks are generally followed by periods of almost complete sanity.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.9",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Butler, Reginald H. B.",
+    "nicknames": [
+      "TBП"
+    ],
+    "gender": "Male",
+    "high school": "Yorkshire College, Leeds, Colorado School of Mines",
+    "motto": "\"England! With all thy faults I love thee still!\"",
+    "birthday": "",
+    "hometown": "South Woodford, Essex, England",
+    "enrolltime": "1905",
+    "major": "Senior",
+    "clubs": [
+      "Editor-in-Chief 1909 Rollamo"
+    ],
+    "description": "\"My Lord\" has introduced himself to us by his caustic wit and his skill as a cartoonist. He sure does know how to handle a pencil. Resolutely refused to become a member of the \"Furrin Club,\" as he is neither an American nor a foreigner. Is essentially English, and has a rooted aversion to American clothes, especially \"peg-tops.\" Ambles around the globe, and crosses the Ocean on trifling causes. Takes care of Lynton when the latter is in love.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"England! With all thy faults I love thee still!\"\n\"My Lord\" has introduced himself to us by his caustic wit and his skill as a cartoonist. He sure does know how to handle a pencil. Resolutely refused to become a member of the \"Furrin Club,\" as he is neither an American nor a foreigner. Is essentially English, and has a rooted aversion to American clothes, especially \"peg-tops.\" Ambles around the globe, and crosses the Ocean on trifling causes. Takes care of Lynton when the latter is in love.",
+    "Appearance": "0.1",
+    "Character_Personality": "0.9",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Chamberlain, Ernst Lorenze",
+    "nicknames": [
+      "TBП"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Full many a flower is born to blush unseen And waste its sweetness on the desert air.\"",
+    "birthday": "",
+    "hometown": "Rolla, Mo.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "A Phelps County cornfield sailor. Tall, dignified and serene, \"Timberline\" glides gracefully (?) in and out of the classrooms. Like all worthy sons, Timberline is following in the footsteps of his father, and henceforth will be seen carrying a transit across his shoulder. His great desire is to invent an instrument by which he can make a survey of Mars, but is at present satisfied to appear cheerful and look with admiration on Prof. Harris.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Full many a flower is born to blush unseen And waste its sweetness on the desert air.\"\nA Phelps County cornfield sailor. Tall, dignified and serene, \"Timberline\" glides gracefully (?) in and out of the classrooms. Like all worthy sons, Timberline is following in the footsteps of his father, and henceforth will be seen carrying a transit across his shoulder. His great desire is to invent an instrument by which he can make a survey of Mars, but is at present satisfied to appear cheerful and look with admiration on Prof. Harris.",
+    "Appearance": "0.8",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Clark, William Daniels",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Rolla High School",
+    "motto": "\"For thy sake, Tobacco, I would do anything but die.\"",
+    "birthday": "",
+    "hometown": "Rolla, Mo.",
+    "enrolltime": "1905",
+    "major": "Senior",
+    "clubs": [
+      "ΣN",
+      "TBΠΤ",
+      "Treasurer, Athletic Association, 1908-09"
+    ],
+    "description": "Born and raised in Rolla and loves the country so well that he would fain leave this rural spot. Known for his pleasant disposition, and will even smile at his rivals. Expects to be Consulting Engineer for Watson & Co. or John Hayes Hammond—hasn't decided which.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"For thy sake, Tobacco, I would do anything but die.\"\nBorn and raised in Rolla and loves the country so well that he would fain leave this rural spot. Known for his pleasant disposition, and will even smile at his rivals. Expects to be Consulting Engineer for Watson & Co. or John Hayes Hammond—hasn't decided which.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Clark, William Newton",
+    "nicknames": [
+      "Grubstaker"
+    ],
+    "gender": "Male",
+    "high school": "Baker University",
+    "motto": "\"So daring and so bold, a dead shot with Cupid's arrow; He, with his gentle soul, would not harm a sparrow.\"",
+    "birthday": "",
+    "hometown": "Jewell City, Kansas.",
+    "enrolltime": "1907",
+    "major": "Senior",
+    "clubs": [
+      "ΔTΔ",
+      "Hellenic Club"
+    ],
+    "description": "Willie has the will but will he? Aspires to be a chorus girl in \"The Tenderfoot.\" Often rumored that he would start a sorority at M. S. M. Has fitful tendencies to matrimony, but, as far as we know, is not married yet. Now's your chance, girls! On his arrival here at once entered exclusive circles of society, but has since deserted them for the Society of Most Tender Age and Extreme Wealth. The pride of Kansas.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"So daring and so bold, a dead shot with Cupid's arrow; He, with his gentle soul, would not harm a sparrow.\"\nWillie has the will but will he? Aspires to be a chorus girl in \"The Tenderfoot.\" Often rumored that he would start a sorority at M. S. M. Has fitful tendencies to matrimony, but, as far as we know, is not married yet. Now's your chance, girls! On his arrival here at once entered exclusive circles of society, but has since deserted them for the Society of Most Tender Age and Extreme Wealth. The pride of Kansas.",
+    "Appearance": "0.1",
+    "Character_Personality": "0.9",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Compton, J. Crawford",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Be calm in arguing; for fierceness makes error a fault, and truth discourtesy.\"",
+    "birthday": "",
+    "hometown": "Independence, Mo.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "ΣN",
+      "1909 Rollamo Board"
+    ],
+    "description": "Ordinarily silent and reserved, he needs the stimulus of opposition to make him express himself. A man of keen perception and of blunt outspoken nature. A thorough \"plugger\" in his first two years, but has recently developed into the most persistent fusser in School. Dotes on Geology and has recently been known to take notes thereon. Made his reputation as Coach of the Ladies' Basketball Team.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Be calm in arguing; for fierceness makes error a fault, and truth discourtesy.\"\nOrdinarily silent and reserved, he needs the stimulus of opposition to make him express himself. A man of keen perception and of blunt outspoken nature. A thorough \"plugger\" in his first two years, but has recently developed into the most persistent fusser in School. Dotes on Geology and has recently been known to take notes thereon. Made his reputation as Coach of the Ladies' Basketball Team.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Dobbins, Walter",
+    "nicknames": [
+      "Hoss",
+      "Hawrse",
+      "Horse and wagon"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"A horse! A horse! My kingdom for a horse!\"",
+    "birthday": "",
+    "hometown": "Champaign, Ill.",
+    "enrolltime": "1905",
+    "major": "Senior",
+    "clubs": [
+      "Grubstaker"
+    ],
+    "description": "A very gentle animal if properly treated, although he is somewhat addicted to making night hideous on Grubstaker Hill. Frequently attends School and at times deals in second-hand clothes. The Grubstaker Side-show Politician, and aspires to follow in the footsteps of Croker, Tweed and others. Assaying \"shark,\" and Prof. Copeland's joy. He's a good old hoss all the same, for there are few men that have his good-natured disposition.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"A horse! A horse! My kingdom for a horse!\"\nA very gentle animal if properly treated, although he is somewhat addicted to making night hideous on Grubstaker Hill. Frequently attends School and at times deals in second-hand clothes. The Grubstaker Side-show Politician, and aspires to follow in the footsteps of Croker, Tweed and others. Assaying \"shark,\" and Prof. Copeland's joy. He's a good old hoss all the same, for there are few men that have his good-natured disposition.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.9",
+    "Ability": "0.3"
+  },
+  {
+    "name": "Don, D. F.",
+    "nicknames": [
+      "Red",
+      "Comical Cuss"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Plain truth ... needs no flowers of speech.\"",
+    "birthday": "",
+    "hometown": "Rock Island, Ill.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Assistant in Mineralogy '08-'09",
+      "Class President '06",
+      "Rollamo Board '08",
+      "Grubstaker"
+    ],
+    "description": "Don has asked us not to print any of his faults, because he wants to give his girl a \"Rollamo.\" He can shut his eyes and tell you the composition of any rock under the sun. Is not called \"Red,\" because by the time this book is out he will be bald, and people would not understand why he was so named. Don is sure a \"Comical Cuss\" but he is a gentleman even if he is a Grubstaker.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Plain truth ... needs no flowers of speech.\"\nDon has asked us not to print any of his faults, because he wants to give his girl a \"Rollamo.\" He can shut his eyes and tell you the composition of any rock under the sun. Is not called \"Red,\" because by the time this book is out he will be bald, and people would not understand why he was so named. Don is sure a \"Comical Cuss\" but he is a gentleman even if he is a Grubstaker.",
+    "Appearance": "0.3",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Dosenbach, Benjamin Harrison",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"The folks who say that love is blind\nMost certainly are right;\nI've fallen in, and now I find\nThat love is out of sight.\"",
+    "birthday": "",
+    "hometown": "St. Louis, Mo.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "KΣ",
+      "'Varsity Baseball Team '07-'08",
+      "M.S.M. Minstrel Troupe"
+    ],
+    "description": " General Girl-ology. A roly-poly Dutch lad. So small that he supports his name with difficulty. Entered the course in General Girl-ology, but is now specializing in one department in that subject. So fastidious in his dress that you would never suspect that he once wore wooden shoes. Reads Thermo for a pastime. Smiling eyes, happy disposition, and a heart as large as his name.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"The folks who say that love is blind\nMost certainly are right;\nI've fallen in, and now I find\nThat love is out of sight.\"\n General Girl-ology. A roly-poly Dutch lad. So small that he supports his name with difficulty. Entered the course in General Girl-ology, but is now specializing in one department in that subject. So fastidious in his dress that you would never suspect that he once wore wooden shoes. Reads Thermo for a pastime. Smiling eyes, happy disposition, and a heart as large as his name.",
+    "Appearance": "0.4",
+    "Character_Personality": "0.9",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Dunn, Theodore Saunders",
+    "nicknames": [
+      "Pete"
+    ],
+    "gender": "Male",
+    "high school": "Lake Forest College",
+    "motto": "\"I'd rather have fingers than toes, I'd rather have eyes than a nose, I'd rather have hair,\" etc.—Old Song.",
+    "birthday": "",
+    "hometown": "Waukegan, Ill.",
+    "enrolltime": "1906",
+    "major": "Senior",
+    "clubs": [
+      "ΠΚΑ",
+      "Rollamo Board 1909"
+    ],
+    "description": "Pete has had varied experience as Reporter, Draftsman, Engineer, Lady Killer, etc. Never tires of relating thrilling adventures at Lake Forest. Plenty of nerve, but has an indisposition to work, hence switched to the Geology Option, and got stung. His redeeming feature has yet to be discovered.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"I'd rather have fingers than toes, I'd rather have eyes than a nose, I'd rather have hair,\" etc.—Old Song.\nPete has had varied experience as Reporter, Draftsman, Engineer, Lady Killer, etc. Never tires of relating thrilling adventures at Lake Forest. Plenty of nerve, but has an indisposition to work, hence switched to the Geology Option, and got stung. His redeeming feature has yet to be discovered.",
+    "Appearance": "0.2",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Easley, George Albert",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Warrensburg State Normal",
+    "motto": "\"But, by the Lord, lads, I'm glad you have the money!\"",
+    "birthday": "",
+    "hometown": "Lee's Summit, Mo.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "K A",
+      "TBΠ",
+      "Business Manager 1909 Rollamo",
+      "Business Manager 1909 Minstrel Troupe",
+      "President Tau Beta Pi '08-'09",
+      "Track Team '03-'04",
+      "Treasurer '07 Class"
+    ],
+    "description": "An untiring and energetic worker at anything in which he is interested, and is still \"all there\" in spite of the great financial schemes with which he is associated. Will probably travel a great deal if he can't resist the temptation of financing moving picture shows in Alaska and Patagonia. A natural born farmer, and is fond of talking \"hogs.\" One year a country school master. Reputation rests on his ability to manage, make announcements, and agitate. Has figured out that a student's grade varies inversely as the square of the distance he seats himself from the Professor.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"But, by the Lord, lads, I'm glad you have the money!\"\nAn untiring and energetic worker at anything in which he is interested, and is still \"all there\" in spite of the great financial schemes with which he is associated. Will probably travel a great deal if he can't resist the temptation of financing moving picture shows in Alaska and Patagonia. A natural born farmer, and is fond of talking \"hogs.\" One year a country school master. Reputation rests on his ability to manage, make announcements, and agitate. Has figured out that a student's grade varies inversely as the square of the distance he seats himself from the Professor.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.9",
+    "Ability": "0.8"
+  },
+  {
+    "name": "Elicano, Victoriano",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Iowa State College",
+    "motto": "\"Still waters run deep.\"",
+    "birthday": "",
+    "hometown": "Masinloc, Zambales, P. I.",
+    "enrolltime": "1906",
+    "major": "Senior",
+    "clubs": [
+      "Cosmopolitan Club"
+    ],
+    "description": "Elicano is characterized by being a good student, good fellow, \"good Filipino.\" Noted for attending strictly to his own business and for his reasoning powers.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Still waters run deep.\"\nElicano is characterized by being a good student, good fellow, \"good Filipino.\" Noted for attending strictly to his own business and for his reasoning powers.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Garst, Harvey Oden",
+    "nicknames": [
+      "H. O. G."
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Let me be no Assistant for a State, But keep a farm and pasture great.\"",
+    "birthday": "",
+    "hometown": "Cabool, Mo.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "President of Senior Class",
+      "Assistant in Surveying"
+    ],
+    "description": "This is the only living example of this unique species. Has done nothing very startling during his four years' residence, but has pursued the even tenor of his way, absorbing some little Civil Engineering and many of Leming's stale jokes. Is very badly in love at the present time, and may be married by the time that this book is printed. Walks as though he were stirring lemonade with himself.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Let me be no Assistant for a State, But keep a farm and pasture great.\"\nThis is the only living example of this unique species. Has done nothing very startling during his four years' residence, but has pursued the even tenor of his way, absorbing some little Civil Engineering and many of Leming's stale jokes. Is very badly in love at the present time, and may be married by the time that this book is printed. Walks as though he were stirring lemonade with himself.",
+    "Appearance": "0.1",
+    "Character_Personality": "0.9",
+    "Ability": "0.4"
+  },
+  {
+    "name": "Hall, William S.",
+    "nicknames": [
+      "Bill"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Suit the action to the word and the word to the action.\"",
+    "birthday": "",
+    "hometown": "Pleasanton, Kansas.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "President of Freshman Class, '05, '06",
+      "Stage Manager M. S. M. Minstrel Troupe",
+      "Business Manager, 1908 Rollamo"
+    ],
+    "description": "Bill has led a rather chequered career since entering the school four years ago, and has dabbled a little in everything from politics to love. Bill was president of the Freshman Class during his first year, and we doubt if Bill Taft will be able to run his cabinet any better than Bill did his class. His love affairs, of course, are not for publication. His many duties have caused his hair to wear away, so that he now wears it \"pompadour\" in order to make a little go a long way. We shall miss Bill at the close of the school year.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Suit the action to the word and the word to the action.\"\nBill has led a rather chequered career since entering the school four years ago, and has dabbled a little in everything from politics to love. Bill was president of the Freshman Class during his first year, and we doubt if Bill Taft will be able to run his cabinet any better than Bill did his class. His love affairs, of course, are not for publication. His many duties have caused his hair to wear away, so that he now wears it \"pompadour\" in order to make a little go a long way. We shall miss Bill at the close of the school year.",
+    "Appearance": "0.4",
+    "Character_Personality": "0.8",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Illinski, Alexis Xavier",
+    "nicknames": [
+      "Doc"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"The prime of manhood, daring, bold, and venturous.\"",
+    "birthday": "",
+    "hometown": "Rolla, Mo.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "'Varsity Baseball Team, '97",
+      "'Varsity Football Team, '97, '07"
+    ],
+    "description": "Doc's time has come at last. He is now such an old timer that the boys regard him as a bench mark. Has an ancient, paternal manner and is at all times capable of giving good advice. Haunts the Geological Survey headquarters in company with Vic Hughes, and is supposed to be a very busy man. Has a benevolent aspect which is in keeping with his patriarchal manner.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"The prime of manhood, daring, bold, and venturous.\"\nDoc's time has come at last. He is now such an old timer that the boys regard him as a bench mark. Has an ancient, paternal manner and is at all times capable of giving good advice. Haunts the Geological Survey headquarters in company with Vic Hughes, and is supposed to be a very busy man. Has a benevolent aspect which is in keeping with his patriarchal manner.",
+    "Appearance": "0.2",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Simon, Jochamowitz",
+    "nicknames": [
+      "Jo-ham-sandwich",
+      "Jo-ham-and-eggs"
+    ],
+    "gender": "Male",
+    "high school": "Escuela de Ingenieros de Lima",
+    "motto": "\"And when a lady's in the case, you know all other things give place.\"",
+    "birthday": "",
+    "hometown": "Lima, Peru",
+    "enrolltime": "1908",
+    "major": "Senior",
+    "clubs": [
+      "Member M. S. M. Orchestra"
+    ],
+    "description": "No one has ever been able to tell just how handsome this young Peruvian really is, because he always obscures himself behind a cloud of cheap perfume. From an occasional glimpse that one gets of him, one cannot help feeling that he really ought to hide behind something. Jo is one of the great fussers, and, judging from the number of girls who have been seen wearing his diamond ring this winter, he must have been engaged to a different girl every week. All the same, he is a great artist.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"And when a lady's in the case, you know all other things give place.\"\nNo one has ever been able to tell just how handsome this young Peruvian really is, because he always obscures himself behind a cloud of cheap perfume. From an occasional glimpse that one gets of him, one cannot help feeling that he really ought to hide behind something. Jo is one of the great fussers, and, judging from the number of girls who have been seen wearing his diamond ring this winter, he must have been engaged to a different girl every week. All the same, he is a great artist.",
+    "Appearance": "0.7",
+    "Character_Personality": "0.9",
+    "Ability": "0.8"
+  },
+  {
+    "name": "Keniston, Carl Winthrop",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Come! Sit down every mother's son of you and rehearse your parts.\"",
+    "birthday": "",
+    "hometown": "Plymouth, N. H.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Director of M. S. M. Orchestra and Band",
+      "Director, M. S. M. Minstrel Troupe",
+      "Grubstaker",
+      "Assistant in Chemistry, '07, '08",
+      "Assistant in Metallurgy, '08, '09."
+    ],
+    "description": "A Yankee and pretends to be proud of it. Father of M. S. M. Orchestra. Talks mysteriously about \"Back East\" (wherever that is). Fond of blowing his own trumpet (and everyone helps him). When Time is no more, there is likely to be a conflict between him and Gabriel as to who shall blow the last trump.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Come! Sit down every mother's son of you and rehearse your parts.\"\nA Yankee and pretends to be proud of it. Father of M. S. M. Orchestra. Talks mysteriously about \"Back East\" (wherever that is). Fond of blowing his own trumpet (and everyone helps him). When Time is no more, there is likely to be a conflict between him and Gabriel as to who shall blow the last trump.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Kibe, Harry Clay",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"I am determined every chance to take to acquire knowledge, though I make a break.\"",
+    "birthday": "",
+    "hometown": "Socorro, N. M.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Geology Option"
+    ],
+    "description": "A Mellin's food baby, but only eats to live and ask fool questions. Thinks that Phelps County hills abound with undiscovered mineral. At any rate, he makes the poor Rubes think so. Resembles a duck in his walk. Gets ocean transport free, being shipped as ballast. Is taking the Geology Option, as he finds much difficulty in getting down mine shafts. Would like to enter Society but can't give up chewing tobacco.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"I am determined every chance to take to acquire knowledge, though I make a break.\"\nA Mellin's food baby, but only eats to live and ask fool questions. Thinks that Phelps County hills abound with undiscovered mineral. At any rate, he makes the poor Rubes think so. Resembles a duck in his walk. Gets ocean transport free, being shipped as ballast. Is taking the Geology Option, as he finds much difficulty in getting down mine shafts. Would like to enter Society but can't give up chewing tobacco.",
+    "Appearance": "0.2",
+    "Character_Personality": "0.9",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Hammond, Ladd",
+    "nicknames": [
+      "Happy",
+      "Beanpole"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Behold the child, by Nature's kindly law; Pleased with a rattle, tickled with a straw.\"",
+    "birthday": "",
+    "hometown": "Rolla, Mo.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "\"Happy\" is the children's friend, and is a regular \"Diamond Dick\" to the Rolla kids, who buzz round him like flies round a bad egg. Resembles a tape-worm in appearance, owing to his extraordinary length. Is sometimes called \"Beanpole\" for the same reason. Combines childish play and extraordinary scholarship in a remarkable degree, and, although he is the baby of his class in years, he is a never-ceasing wonder for his ability to do good work without any study. Goes to school at times. Is an artistic photographer, as proven by his many excellent illustrations in this book.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Behold the child, by Nature's kindly law; Pleased with a rattle, tickled with a straw.\"\n\"Happy\" is the children's friend, and is a regular \"Diamond Dick\" to the Rolla kids, who buzz round him like flies round a bad egg. Resembles a tape-worm in appearance, owing to his extraordinary length. Is sometimes called \"Beanpole\" for the same reason. Combines childish play and extraordinary scholarship in a remarkable degree, and, although he is the baby of his class in years, he is a never-ceasing wonder for his ability to do good work without any study. Goes to school at times. Is an artistic photographer, as proven by his many excellent illustrations in this book.",
+    "Appearance": "0.6",
+    "Character_Personality": "0.8",
+    "Ability": "0.9"
+  },
+  {
+    "name": "Paul, Bauchmann Leming",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Cape Girardeau State Normal",
+    "motto": "\"Don't be afraid! He won't hurt you, He wouldn't even hurt a hair; All he wants is an electric toy, And a pretty little Teddy bear.\"",
+    "birthday": "",
+    "hometown": "Cape Girardeau, Mo.",
+    "enrolltime": "1906",
+    "major": "Senior",
+    "clubs": [
+      "K A"
+    ],
+    "description": "Paul's sole redeeming feature is his ability to tell stale jokes. Otherwise he is considered quite hopeless, notwithstanding the fact that a few far-sighted individuals predict that he will some day fill a pulpit. Is much given to oratory, and his stentorian tones can often be heard swaying the Civil Engineering Class. Will marry within a month after leaving College, and will then return to the swamps to further the study of his pet scheme, \"The Drainage of Swamp Lands.\"",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Don't be afraid! He won't hurt you, He wouldn't even hurt a hair; All he wants is an electric toy, And a pretty little Teddy bear.\"\nPaul's sole redeeming feature is his ability to tell stale jokes. Otherwise he is considered quite hopeless, notwithstanding the fact that a few far-sighted individuals predict that he will some day fill a pulpit. Is much given to oratory, and his stentorian tones can often be heard swaying the Civil Engineering Class. Will marry within a month after leaving College, and will then return to the swamps to further the study of his pet scheme, \"The Drainage of Swamp Lands.\"",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.4"
+  },
+  {
+    "name": "Elmer, Cooper List",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Cape Girardeau State Normal",
+    "motto": "\"He has never had a fight, And has never joined a riot; You may hunt the wide World o'er, And you'll not find one so quiet.\"",
+    "birthday": "",
+    "hometown": "Cape Girardeau, Mo.",
+    "enrolltime": "1906",
+    "major": "Senior",
+    "clubs": [
+      "M. S. M. Orchestra"
+    ],
+    "description": "Another inhabitant of the swamps and is reported to have webbed feet. Tall, dignified, and of stately mien. Why he still remains in this vale of tears is a mystery to all his friends. Would look exceedingly well in saintly robes, but would have to substitute his heavenly harp for a drum, which he plays with great expression, and almost brings the tears to one's eyes. Never was known to talk to anyone but his landlady, who thinks him \"the nicest boy!\"",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"He has never had a fight, And has never joined a riot; You may hunt the wide World o'er, And you'll not find one so quiet.\"\nAnother inhabitant of the swamps and is reported to have webbed feet. Tall, dignified, and of stately mien. Why he still remains in this vale of tears is a mystery to all his friends. Would look exceedingly well in saintly robes, but would have to substitute his heavenly harp for a drum, which he plays with great expression, and almost brings the tears to one's eyes. Never was known to talk to anyone but his landlady, who thinks him \"the nicest boy!\"",
+    "Appearance": "0.8",
+    "Character_Personality": "0.9",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Loveridge, Frank R.",
+    "nicknames": [
+      "Lovie"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"She's all my fancy painted her. She's lovely, she's divine.\"",
+    "birthday": "",
+    "hometown": "Batavia, N. Y.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Track Teams, '06, '08",
+      "Grubstaker"
+    ],
+    "description": "If Rolla were a wheat field, \"Lovie\" would be the \"cream of the wheat.\" When not in the classroom he can always be found in the Post Office. Can supply full information on \"Management of a Pitchfork in the Kansas Harvest Fields\" if Mazany is not around.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"She's all my fancy painted her. She's lovely, she's divine.\"\nIf Rolla were a wheat field, \"Lovie\" would be the \"cream of the wheat.\" When not in the classroom he can always be found in the Post Office. Can supply full information on \"Management of a Pitchfork in the Kansas Harvest Fields\" if Mazany is not around.",
+    "Appearance": "0.8",
+    "Character_Personality": "0.4",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Mazany, Mark Stephen",
+    "nicknames": [
+      "Colgate",
+      "Slops"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"If thou desire to be held wise, be wise enough to hold thy tongue.\"",
+    "birthday": "",
+    "hometown": "Dunkirk, N. Y.",
+    "enrolltime": "1907",
+    "major": "Senior",
+    "clubs": [
+      "Colgate University",
+      "'Varsity Basketball Team, '07, '08",
+      "'Varsity Track Team, '08",
+      "Grubstaker"
+    ],
+    "description": "\"Colgate,\" otherwise \"Slops,\" is reported to have been good looking in the days of his youth. Apparently, however, the Mathematics, Athletics, and Politics at M. S. M. have proven fatal. Improves his time by talking of Colgate University and how he played football there. Is Mohammedan chaplain to the Grubstakers, and occasionally puts in an hour or two trying to train \"Horse Dobbins.\" It is a case of the blind leading the blind.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"If thou desire to be held wise, be wise enough to hold thy tongue.\"\n\"Colgate,\" otherwise \"Slops,\" is reported to have been good looking in the days of his youth. Apparently, however, the Mathematics, Athletics, and Politics at M. S. M. have proven fatal. Improves his time by talking of Colgate University and how he played football there. Is Mohammedan chaplain to the Grubstakers, and occasionally puts in an hour or two trying to train \"Horse Dobbins.\" It is a case of the blind leading the blind.",
+    "Appearance": "0.3",
+    "Character_Personality": "0.8",
+    "Ability": "0.6"
+  },
+  {
+    "name": "McCrae, Rowe Francis",
+    "nicknames": [
+      "Bus"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Holiday don't go away, But stay with me forever.\"",
+    "birthday": "",
+    "hometown": "Rolla, Mo.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "K A",
+      "Assistant in Surveying '07, '08",
+      "Manager 'Varsity Baseball, 1909",
+      "Captain Class Baseball, '06",
+      "'Varsity Baseball, '07, '08",
+      "Member M. S. M. Band",
+      "General Science Course",
+      "M. S. M. Minstrel Troupe"
+    ],
+    "description": "His athletic figure and handsome face never fail to melt the stony hearts of the Rolla girls. Consequently we expect that \"Bus\" will marry an heiress some day. Life's labors do not trouble him, as he is taking the General Science Course.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Holiday don't go away, But stay with me forever.\"\nHis athletic figure and handsome face never fail to melt the stony hearts of the Rolla girls. Consequently we expect that \"Bus\" will marry an heiress some day. Life's labors do not trouble him, as he is taking the General Science Course.",
+    "Appearance": "0.8",
+    "Character_Personality": "0.4",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Pearl, Frederick Michael",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"My thoughts are my own companions.\"",
+    "birthday": "",
+    "hometown": "Rolla, Mo.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Pearl rooms with \"Piggy\" Garst, so that we have—ipso facto—the casting of pearls before swine. In spite of this he is a good fellow, although a very quiet one. Is addicted to making week-end excursions into the country and always comes back a happy man. From which we deduce.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"My thoughts are my own companions.\"\nPearl rooms with \"Piggy\" Garst, so that we have—ipso facto—the casting of pearls before swine. In spite of this he is a good fellow, although a very quiet one. Is addicted to making week-end excursions into the country and always comes back a happy man. From which we deduce.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Nachtmann, Frank Xavier",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Night after night he sat And bleared his eyes with books.\"",
+    "birthday": "",
+    "hometown": "Junction City, Kansas.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "KΣ",
+      "TBП",
+      "'Varsity Football Team, '07",
+      "M. S. M. Minstrel Troupe",
+      "'09 Rollamo Board"
+    ],
+    "description": "Please note the \"Xavier!\" Does not properly appreciate evening serenades, though he has been known to commit such crimes himself. Has been heard to state that \"Frame\" was an interesting subject, and that Kansas is the best State in the Union!!!! Generally present when there is any fun in the air. Is almost distinguished looking—hence the middle name. Hides abundant good nature beneath a gruff and solemn exterior. Fusses only intermittently.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Night after night he sat And bleared his eyes with books.\"\nPlease note the \"Xavier!\" Does not properly appreciate evening serenades, though he has been known to commit such crimes himself. Has been heard to state that \"Frame\" was an interesting subject, and that Kansas is the best State in the Union!!!! Generally present when there is any fun in the air. Is almost distinguished looking—hence the middle name. Hides abundant good nature beneath a gruff and solemn exterior. Fusses only intermittently.",
+    "Appearance": "0.3",
+    "Character_Personality": "0.9",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Ohnsorg, Norman L.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"The deed I intend is great. But what, as yet I know not.\"",
+    "birthday": "",
+    "hometown": "Rolla, Mo.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Class Track and Basket-ball Teams, '07"
+    ],
+    "description": "He asked the Rollamo Board \"individually and collectively\" to cut out all roasts on himself. It was pretty hard work for the Rollamo Board whilst it lasted, but it's done at last. That's all.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"The deed I intend is great. But what, as yet I know not.\"\nHe asked the Rollamo Board \"individually and collectively\" to cut out all roasts on himself. It was pretty hard work for the Rollamo Board whilst it lasted, but it's done at last. That's all.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Pollard, Arthur Lewis",
+    "nicknames": [
+      "Art",
+      "Chief"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"You are wise, or else you love not, For to be wise and love, exceeds man's might.\"",
+    "birthday": "",
+    "hometown": "Batavia, N. Y.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Editor-in-Chief, '08 Rollamo"
+    ],
+    "description": "Our dear old \"Art\" is a hard worker, hard thinker, and hard lover, and we prophesy that in years to come he will occupy a top rung on the ladder of life. At least \"Chief\" with those feet of his is sure to leave his footprints in the sands of Time. Addicted to falling in love with the Kindergarten girls. Slow of speech and has the germs of a roving nature at work within his heart.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"You are wise, or else you love not, For to be wise and love, exceeds man's might.\"\nOur dear old \"Art\" is a hard worker, hard thinker, and hard lover, and we prophesy that in years to come he will occupy a top rung on the ladder of life. At least \"Chief\" with those feet of his is sure to leave his footprints in the sands of Time. Addicted to falling in love with the Kindergarten girls. Slow of speech and has the germs of a roving nature at work within his heart.",
+    "Appearance": "0.1",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Shah, Aaron M.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"There shall be done a deed of dreadful note.\"",
+    "birthday": "",
+    "hometown": "Vilna, Russia.",
+    "enrolltime": "1905",
+    "major": "Senior",
+    "clubs": [
+      "Member of the Cosmopolitan Club"
+    ],
+    "description": "A man of murderous looking aspect. Once tried to be an Anarchist and still has hopes of succeeding. Studies the chemistry of explosives very assiduously, and one day intends to go back to Russia and show them how. Is a very hard worker, and never intrudes himself into other people's affairs, which is a great virtue.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"There shall be done a deed of dreadful note.\"\nA man of murderous looking aspect. Once tried to be an Anarchist and still has hopes of succeeding. Studies the chemistry of explosives very assiduously, and one day intends to go back to Russia and show them how. Is a very hard worker, and never intrudes himself into other people's affairs, which is a great virtue.",
+    "Appearance": "0.2",
+    "Character_Personality": "0.8",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Watson, Ralph William",
+    "nicknames": [
+      "Gloomy"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Oh! that such gloom could dwell in such a gorgeous palace!\"",
+    "birthday": "",
+    "hometown": "Salt Lake City, Utah.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "The handsomest man in school, and is fond of his nickname, although he is really quite cheerful, especially when the ladies are around. Is quite proud of his grey hairs, which he maintains have been caused by hard work. \"Gloomy\" is undoubtedly a world-famous mining engineer in the embryonic state, although he can't tell a stalagmite from a telegraph pole. Has great faith in sleep as a cure for all ills.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"Oh! that such gloom could dwell in such a gorgeous palace!\"\nThe handsomest man in school, and is fond of his nickname, although he is really quite cheerful, especially when the ladies are around. Is quite proud of his grey hairs, which he maintains have been caused by hard work. \"Gloomy\" is undoubtedly a world-famous mining engineer in the embryonic state, although he can't tell a stalagmite from a telegraph pole. Has great faith in sleep as a cure for all ills.",
+    "Appearance": "0.9",
+    "Character_Personality": "0.8",
+    "Ability": "0.3"
+  },
+  {
+    "name": "Smith, Earl McCulloch",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"The eyes of man are of no use without the observing power.\"",
+    "birthday": "",
+    "hometown": "Little Rock, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "M. S. M. Minstrel Troupe"
+    ],
+    "description": "Earl has distinguished himself by almost being as much of a \"Boston Tech\" nuisance as Keniston, the chief difference being that Earl comes from Arkansas, which accounts for many of his eccentricities. Cuts his hair twice a year, and shaves under provocation. Would like to teach the Faculty a thing or two, but so far has found them indisposed to learn. Has a gift of being able to talk for a long time about things of which he knows nothing. \"Now, I'll tell you.\"",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"The eyes of man are of no use without the observing power.\"\nEarl has distinguished himself by almost being as much of a \"Boston Tech\" nuisance as Keniston, the chief difference being that Earl comes from Arkansas, which accounts for many of his eccentricities. Cuts his hair twice a year, and shaves under provocation. Would like to teach the Faculty a thing or two, but so far has found them indisposed to learn. Has a gift of being able to talk for a long time about things of which he knows nothing. \"Now, I'll tell you.\"",
+    "Appearance": "0.4",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Wolf, Edgar Joseph",
+    "nicknames": [
+      "Mose"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"The mould of a man's fortune is in his own hands.\"",
+    "birthday": "",
+    "hometown": "Mt. Vernon, Ind.",
+    "enrolltime": "1905",
+    "major": "Senior",
+    "clubs": [
+      "M. S. M. Minstrel Troupe"
+    ],
+    "description": "\"Mose\" is a good Indian and has always participated in all College activities, class games, minstrel shows, etc. Known to have the best memory of any man in School and once knew his Freshman Chemistry according to page number. Generally gets on all the exempt lists; if not, he always gets his revenge by continually walking up and confidentially asking the Prof. a lot of fool questions. The last of the Seniors—but not the least.",
+    "University": "Missouri University of Science and Technology",
+    "year": 1909,
+    "text": "\"The mould of a man's fortune is in his own hands.\"\n\"Mose\" is a good Indian and has always participated in all College activities, class games, minstrel shows, etc. Known to have the best memory of any man in School and once knew his Freshman Chemistry according to page number. Generally gets on all the exempt lists; if not, he always gets his revenge by continually walking up and confidentially asking the Prof. a lot of fool questions. The last of the Seniors—but not the least.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.9"
+  }
+]

@@ -1,0 +1,503 @@
+[
+  {
+    "name": "Redding, Edward L.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"When Love and Skill Work Together, Expect a Masterpiece.\"",
+    "birthday": "",
+    "hometown": "El Paso, Texas",
+    "enrolltime": "",
+    "major": "Civil Engineering Course",
+    "clubs": [
+      "Football team '03-'04-'05-'06-'07-'08",
+      "Captain football team '06-'07",
+      "Track team '04-'05-'06-'07-'08",
+      "Round-Up staff '07-'08",
+      "Swastika staff '08",
+      "Editor Swastika '09",
+      "President Y. M. C. A. '09-'10",
+      "Captain in Battalion '06-'07",
+      "Athletic Board '06-'07",
+      "V. Q. S. V. '03-'04"
+    ],
+    "description": "Holder of Territorial record in hammer and discus. Motive in life: To win the fair lady in Cruces. Thesis: Determination of Constant C in Formula for Flow of Water Through Submerged Orifices. Formula Q = C A √2gh.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\"When Love and Skill Work Together, Expect a Masterpiece.\"\nHolder of Territorial record in hammer and discus. Motive in life: To win the fair lady in Cruces. Thesis: Determination of Constant C in Formula for Flow of Water Through Submerged Orifices. Formula Q = C A √2gh.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.9"
+  },
+  {
+    "name": "Oliver, Ruth Ellen",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "",
+    "motto": "\"But tell me true, will't be a match? Ask my dog, if he say 'aye' it will; if he say 'nay' it will; if he wag his tail and say nothing it will.\"",
+    "birthday": "",
+    "hometown": "Fierro, New Mexico",
+    "enrolltime": "1906",
+    "major": "General Science Course",
+    "clubs": [
+      "N. M. A. C.",
+      "Officer, Y. W. C. A.",
+      "Minerva Literary Society",
+      "Dramatic Club",
+      "Class Officer"
+    ],
+    "description": "Motive in Life: To be House Wife of Cornell Graduate. Thesis: Taxation in New Mexico.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\"But tell me true, will't be a match? Ask my dog, if he say 'aye' it will; if he say 'nay' it will; if he wag his tail and say nothing it will.\"\nMotive in Life: To be House Wife of Cornell Graduate. Thesis: Taxation in New Mexico.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Boone, Howard Crosby",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"My hair is my pride.\"",
+    "birthday": "",
+    "hometown": "Sabinal, Texas",
+    "enrolltime": "1908",
+    "major": "Mechanical Engineering Course",
+    "clubs": [
+      "N. M. A. C.",
+      "Student Body President '10",
+      "Editor Engineering Dept. Round-Up '10",
+      "Baseball '10"
+    ],
+    "description": "Motive in Life: General Merchandise Merchant, Mesquite, New Mexico. Thesis: Test of a type ten—2 Ingersoll-Rand Air Compressors.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\"My hair is my pride.\"\nMotive in Life: General Merchandise Merchant, Mesquite, New Mexico. Thesis: Test of a type ten—2 Ingersoll-Rand Air Compressors.",
+    "Appearance": "0.9",
+    "Character_Personality": "0.3",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Ames, Walter Roque",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Man delights not me, nor woman, either.\"",
+    "birthday": "",
+    "hometown": "Las Cruces, New Mexico",
+    "enrolltime": "1902",
+    "major": "Mechanical Engineering Course",
+    "clubs": [
+      "N. M. A. C.",
+      "Football '03-'04-'05-'06-'07-'08",
+      "Captain, Battalion of Cadets",
+      "Salerino in \"Merchant of Venice\"",
+      "Treasurer of Gibbons Club '07-'08",
+      "Treasurer of Sophomore Class",
+      "Treasurer Junior Class",
+      "Vice President Senior Class",
+      "President Athletic Association '08"
+    ],
+    "description": "MOTIVE IN LIFE: Mayor of Las Cruces.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\"Man delights not me, nor woman, either.\"\nMOTIVE IN LIFE: Mayor of Las Cruces.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Baker, Stuart Knight",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Silence does not always mark wisdom.\"",
+    "birthday": "",
+    "hometown": "Las Cruces, New Mexico",
+    "enrolltime": "1901",
+    "major": "Electrical Engineering Course",
+    "clubs": [
+      "N. M. A. C.",
+      "Minerva Literary Society—Treasurer '08, Vice President '09",
+      "Student Body Treasurer '09, Vice President '10",
+      "Editor Engineering Dept. Round-Up '09",
+      "Assistant Business Manager, Swastika, '08",
+      "Salanio in \"Merchant of Venice\"",
+      "First Sergeant, Co. B",
+      "Adjutant",
+      "Captain Co. D",
+      "Vice President Junior Class '09",
+      "Secretary Senior Class '10"
+    ],
+    "description": "Motive in Life: To be Superintendent of the Las Cruces Electric R. R. Company. Thesis: \"Some Commercial Tests of Electrical Machinery.\"",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\"Silence does not always mark wisdom.\"\nMotive in Life: To be Superintendent of the Las Cruces Electric R. R. Company. Thesis: \"Some Commercial Tests of Electrical Machinery.\"",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Young, Donald W.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"I am somewhat of an orator but I never do as well as I can out of respect for the memory of Patrick Henry.\"",
+    "birthday": "",
+    "hometown": "Las Cruces, New Mexico",
+    "enrolltime": "",
+    "major": "General Course",
+    "clubs": [
+      "N. M. A. C.",
+      "Sons of Rest",
+      "Oratorical Contest '07",
+      "Intercollegiate Debate '09",
+      "Battalion Adjutant",
+      "President Sophomore Class '07",
+      "Minerva Pres. '08",
+      "Tennis Manager '06"
+    ],
+    "description": "Democratic Candidate for President. Thesis: History of the Development of the Democratic Party.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\"I am somewhat of an orator but I never do as well as I can out of respect for the memory of Patrick Henry.\"\nDemocratic Candidate for President. Thesis: History of the Development of the Democratic Party.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Fraker, Arthur F.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"It is easier to look wise than to talk wisely.\"",
+    "birthday": "",
+    "hometown": "Locate, New Mexico",
+    "enrolltime": "1902",
+    "major": "Civil Engineering Course",
+    "clubs": [
+      "N. M. A. C.",
+      "President, Junior Class",
+      "Football team",
+      "Football Captain",
+      "Secretary, Athletic Association",
+      "Major, Battalion",
+      "Piggy in \"Just one Girl\"",
+      "Chorus Boy in \"Pinafore\" and \"Mikado\""
+    ],
+    "description": "Motive in life: Specialist in Applied Mechanics. Thesis: The determination of Constant C. in formula for flow of water through submerged orifices.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\"It is easier to look wise than to talk wisely.\"\nMotive in life: Specialist in Applied Mechanics. Thesis: The determination of Constant C. in formula for flow of water through submerged orifices.",
+    "Appearance": "0.1",
+    "Character_Personality": "0.8",
+    "Ability": "0.9"
+  },
+  {
+    "name": "Arner, Grose Rede.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"To be a Missionary to China.\"",
+    "birthday": "",
+    "hometown": "Ballston Spa, New York",
+    "enrolltime": "",
+    "major": "General Science Course",
+    "clubs": [
+      "Y. M. C. A.",
+      "Treasurer, Tortugas Club",
+      "Track Team",
+      "Captain Track Team",
+      "Basketball Team",
+      "Treasurer Senior Class"
+    ],
+    "description": "\"What a man am I.\"",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\"To be a Missionary to China.\"\n\"What a man am I.\"",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Mayer, Paul W.",
+    "nicknames": [
+      "Punk"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "White Oaks, New Mexico",
+    "enrolltime": "",
+    "major": "",
+    "clubs": [
+      "President, Junior Class"
+    ],
+    "description": "On an off day the Juniors elected him President of their class. Unsuccessful in love he takes revenge in slamming two-baggers across the diamond to the infinite delight of all other under-dogs. His record in classes forbids the implying of anything on that score although the taking of that course in which he is registered will probably necessitate his returning in 1912 for stenographic work.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\nOn an off day the Juniors elected him President of their class. Unsuccessful in love he takes revenge in slamming two-baggers across the diamond to the infinite delight of all other under-dogs. His record in classes forbids the implying of anything on that score although the taking of that course in which he is registered will probably necessitate his returning in 1912 for stenographic work.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.8"
+  },
+  {
+    "name": "Hines, Raye",
+    "nicknames": [
+      "Heinie"
+    ],
+    "gender": "Female",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Mesilla, New Mexico",
+    "enrolltime": "",
+    "major": "",
+    "clubs": [
+      "President, Y. W. C. A."
+    ],
+    "description": "A heart smasher for fair. No sarcasm is included in the preceding; it is merely a general way of stating that at least three have engaged and succumbed in the contest of \"bitter sweet.\" Raye clinched her position in the hearts of her classmates when she entertained them on April 1st. May it be further said to the credit of this estimable young lady that during the present year she served as President of the Y. W. C. A.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\nA heart smasher for fair. No sarcasm is included in the preceding; it is merely a general way of stating that at least three have engaged and succumbed in the contest of \"bitter sweet.\" Raye clinched her position in the hearts of her classmates when she entertained them on April 1st. May it be further said to the credit of this estimable young lady that during the present year she served as President of the Y. W. C. A.",
+    "Appearance": "0.8",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "McCowen, Henry C.",
+    "nicknames": [
+      "Mac"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Las Cruces, New Mexico",
+    "enrolltime": "",
+    "major": "",
+    "clubs": [
+      "Foreman, \"Whoop-em-up\" outfit",
+      "College paper"
+    ],
+    "description": "Foreman of the \"Whoop-em-up\" outfit. Spends part of the week getting out the College paper and the balance of the time getting out of the way of those irate victims of his yellow journal who will not accept apologies. He doesn't believe in going with the girls, but he goes just the same. He will make a valiant effort to graduate on time.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\nForeman of the \"Whoop-em-up\" outfit. Spends part of the week getting out the College paper and the balance of the time getting out of the way of those irate victims of his yellow journal who will not accept apologies. He doesn't believe in going with the girls, but he goes just the same. He will make a valiant effort to graduate on time.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Fitz Gerald, Percy C.",
+    "nicknames": [
+      "Old Has-Been"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Slow but sure\"",
+    "birthday": "",
+    "hometown": "Roswell, New Mexico",
+    "enrolltime": "",
+    "major": "",
+    "clubs": [
+      "President, Agricultural Club"
+    ],
+    "description": "He claims that he hasn't time for girls, athletics, journalism or any of the other side shows, but in an emergency he will exhibit a remarkable adaptability to any of the above diversions. Fitz is a farmer of marked ability.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\"Slow but sure\"\nHe claims that he hasn't time for girls, athletics, journalism or any of the other side shows, but in an emergency he will exhibit a remarkable adaptability to any of the above diversions. Fitz is a farmer of marked ability.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Quesenberry, George R.",
+    "nicknames": [
+      "Change"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"There is a whole lot to him.\"",
+    "birthday": "",
+    "hometown": "Las Cruces, New Mexico",
+    "enrolltime": "1902",
+    "major": "",
+    "clubs": [
+      "President, the \"bunch\"",
+      "Agricultural family"
+    ],
+    "description": "He is quite high up in the world—at least his head. George has been with the class since 1902; in fact he is all that is left of the original class. He was once President of the \"bunch\" but resigned for the reason that he found the ceiling an uncomfortable restriction when he had to stand on a six-inch platform.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\"There is a whole lot to him.\"\nHe is quite high up in the world—at least his head. George has been with the class since 1902; in fact he is all that is left of the original class. He was once President of the \"bunch\" but resigned for the reason that he found the ceiling an uncomfortable restriction when he had to stand on a six-inch platform.",
+    "Appearance": "0.2",
+    "Character_Personality": "0.8",
+    "Ability": "0.4"
+  },
+  {
+    "name": "Rigney, Joseph W.",
+    "nicknames": [
+      "Judge",
+      "Rig"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Cross Roads, Alabama",
+    "enrolltime": "",
+    "major": "",
+    "clubs": [
+      "President, Agric. Club"
+    ],
+    "description": "J. W. is the latest addition to '11 and certainly one of its most valuable members. He was a dark horse in the debating line, but he proved to be a speedy animal in the race for the inter-collegiate team. Mr. Rigney is an adept in the incubator business and a worthy example of the worthy ruralities.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\nJ. W. is the latest addition to '11 and certainly one of its most valuable members. He was a dark horse in the debating line, but he proved to be a speedy animal in the race for the inter-collegiate team. Mr. Rigney is an adept in the incubator business and a worthy example of the worthy ruralities.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.8"
+  },
+  {
+    "name": "Campbell, William E.",
+    "nicknames": [
+      "Jack"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Bower Mills, Missouri",
+    "enrolltime": "",
+    "major": "Civil Engineering",
+    "clubs": [
+      "Hamburger disposer",
+      "Round-Up manager"
+    ],
+    "description": "This corpulent individual has been with the class for half a decade. He is from the land of 'Show me' and if you rub his fur the wrong way he exhibits all the characteristics of that animal native to the muddy state. The chief aim of his life is to be a civil engineer, but his main endeavor is concentrated on keeping his avoirdupois below the 200 pound mark. Constant handling of the long green and jingling tin during the last two years, while 'hamburger' disposer and Round-Up manager has earned for him the appellation of 'Chief Grafter.'",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\nThis corpulent individual has been with the class for half a decade. He is from the land of 'Show me' and if you rub his fur the wrong way he exhibits all the characteristics of that animal native to the muddy state. The chief aim of his life is to be a civil engineer, but his main endeavor is concentrated on keeping his avoirdupois below the 200 pound mark. Constant handling of the long green and jingling tin during the last two years, while 'hamburger' disposer and Round-Up manager has earned for him the appellation of 'Chief Grafter.'",
+    "Appearance": "0.9",
+    "Character_Personality": "0.8",
+    "Ability": "0.3"
+  },
+  {
+    "name": "Mayer, Bertha",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "White Oaks, New Mexico",
+    "enrolltime": "",
+    "major": "Technical Course",
+    "clubs": [
+      "Y. W. C. A."
+    ],
+    "description": "From the Sub-Freshman class, Bertha has kept steadily abreast of her classmates and is consequently a full-fledged Junior. She is one of the few girls who believe that a degree from a technical school is worthwhile. In Miss Mayer we find a girl of the reliable, dependable sort and one for whom everyone has something respectful to say.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\nFrom the Sub-Freshman class, Bertha has kept steadily abreast of her classmates and is consequently a full-fledged Junior. She is one of the few girls who believe that a degree from a technical school is worthwhile. In Miss Mayer we find a girl of the reliable, dependable sort and one for whom everyone has something respectful to say.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Powers, John",
+    "nicknames": [
+      "Push"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Santa Rita, New Mexico",
+    "enrolltime": "",
+    "major": "Engineering Course",
+    "clubs": [],
+    "description": "Johnie joined the 'bunch' when it was known as the Junior Prep class. He is Irish and proud of it and possesses all of the race's conversational and oratorical powers. Furthermore, he is the embodiment of first, class, and then college spirit. Of course he is taking an engineering course, but in our generosity we cannot hold that against him. He has never petted the girls, but he often allows them to pet him.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\nJohnie joined the 'bunch' when it was known as the Junior Prep class. He is Irish and proud of it and possesses all of the race's conversational and oratorical powers. Furthermore, he is the embodiment of first, class, and then college spirit. Of course he is taking an engineering course, but in our generosity we cannot hold that against him. He has never petted the girls, but he often allows them to pet him.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Sewall, E. Merrill",
+    "nicknames": [
+      "Farmer"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Santa Rosa, New Mexico",
+    "enrolltime": "",
+    "major": "",
+    "clubs": [
+      "Football Manager",
+      "Swastika Editor"
+    ],
+    "description": "He started out pretty well in his Freshman year, but he has been slowing down until the beginning of the present year when he spied something pretty by the roadside and he almost came to a full stop. He is a man who has no particular aversion for College side shows for he has been everything from Football Manager to Swastika Editor. He has no mean ability, neither has he a single redeeming trait beyond the fact that he is a FARMER.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\nHe started out pretty well in his Freshman year, but he has been slowing down until the beginning of the present year when he spied something pretty by the roadside and he almost came to a full stop. He is a man who has no particular aversion for College side shows for he has been everything from Football Manager to Swastika Editor. He has no mean ability, neither has he a single redeeming trait beyond the fact that he is a FARMER.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Paul, Brownlee",
+    "nicknames": [
+      "Pauline"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Las Cruces, New Mexico",
+    "enrolltime": "",
+    "major": "Scientific work",
+    "clubs": [
+      "Business Manager"
+    ],
+    "description": "Two years ago he was a Sophomore. During last year he was enrolled in the Freshman class and now, by some miracle, he is a Junior and also the Business Manager of the volume you hold in hand. Before coming here, he was a farmer, and now, to supplement his practical experience, he is taking scientific work. He is therefore a good example of the progressive evolution of the modern agriculturist.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\nTwo years ago he was a Sophomore. During last year he was enrolled in the Freshman class and now, by some miracle, he is a Junior and also the Business Manager of the volume you hold in hand. Before coming here, he was a farmer, and now, to supplement his practical experience, he is taking scientific work. He is therefore a good example of the progressive evolution of the modern agriculturist.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.8"
+  },
+  {
+    "name": "Goebel, Gordon Wilson",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Whence and what art thou, execrable shape?\"",
+    "birthday": "",
+    "hometown": "Santa Fe, New Mexico",
+    "enrolltime": "1907",
+    "major": "Electrical Engineering Course",
+    "clubs": [
+      "N. M. A. C.",
+      "Round-Up reporter '09",
+      "Swastika staff '09",
+      "Tortugas Club Pres. '09",
+      "Senior Class Pres. '10",
+      "Chief Mechanic in the \"Tortugas\" shops"
+    ],
+    "description": "THESIS: Some Commercial Tests of Electrical Machinery.",
+    "University": "New Mexico State University",
+    "year": 1910,
+    "text": "\"Whence and what art thou, execrable shape?\"\nTHESIS: Some Commercial Tests of Electrical Machinery.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.0",
+    "Ability": "0.0"
+  }
+]

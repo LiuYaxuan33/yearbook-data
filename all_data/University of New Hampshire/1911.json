@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Arozian, Johannes Aaron",
+    "nicknames": [
+      "John",
+      "Ohannes"
+    ],
+    "gender": "Male",
+    "high school": "Nashua High School",
+    "motto": "Ambition, thou goad of all mankind.",
+    "birthday": "",
+    "hometown": "southern Europe",
+    "enrolltime": "",
+    "major": "Chemical Engineering",
+    "clubs": [],
+    "description": "First saw the light of day \"on the other side\" in a little country of southern Europe. When the Turks saw John in '96, they said, \"Let it live,\" whereupon he took the first boat for America and landed here in the \"Chem.\" course feet first. \"Ohannes\" is analyzing some blue \"mud\" from the old country and calls it copper ore. After graduation, John will return to develop the unusual mineral resources of his native land.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Ambition, thou goad of all mankind.\nFirst saw the light of day \"on the other side\" in a little country of southern Europe. When the Turks saw John in '96, they said, \"Let it live,\" whereupon he took the first boat for America and landed here in the \"Chem.\" course feet first. \"Ohannes\" is analyzing some blue \"mud\" from the old country and calls it copper ore. After graduation, John will return to develop the unusual mineral resources of his native land.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Bachelder, John Hutchins",
+    "nicknames": [
+      "Bach"
+    ],
+    "gender": "Male",
+    "high school": "Concord High School",
+    "motto": "You may relish him more in the soldier than in the scholar.",
+    "birthday": "",
+    "hometown": "Concord",
+    "enrolltime": "1907",
+    "major": "Agricultural",
+    "clubs": [
+      "Cane Rush (2), two hands",
+      "Gold Medal, Prize Drill (2)",
+      "Sergeant (3)"
+    ],
+    "description": "Strolled leisurely into Durham in the fall of 1907, found a room in Pettee Block, then immediately went to Dover to buy a Morris chair. We believe he already had the pipe, - at any rate, the chair and pipe have ever since continued to be the chief requisites of his existence. \"Bach\" is taking the \"Aggie\" course and after completing his college work he will probably become farm foreman of the state prison farm at West Concord.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "You may relish him more in the soldier than in the scholar.\nStrolled leisurely into Durham in the fall of 1907, found a room in Pettee Block, then immediately went to Dover to buy a Morris chair. We believe he already had the pipe, - at any rate, the chair and pipe have ever since continued to be the chief requisites of his existence. \"Bach\" is taking the \"Aggie\" course and after completing his college work he will probably become farm foreman of the state prison farm at West Concord.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.4"
+  },
+  {
+    "name": "Bennett, Leland Wilson",
+    "nicknames": [
+      "Herr"
+    ],
+    "gender": "Male",
+    "high school": "Laconia High School",
+    "motto": "True love is better than glory.",
+    "birthday": "",
+    "hometown": "Laconia",
+    "enrolltime": "1907",
+    "major": "Electrical Engineering",
+    "clubs": [
+      "Class Baseball (1) (2)"
+    ],
+    "description": "Was born in due time in the metropolis of Laconia, one of the suburbs of Concord. In the fall of 1907 he came to Durham, a serious, conscientious lad, and has ever since remained true to someone who claimed his attentions before coming to college. It is rumored that he will form a partnership after graduation. If so, good luck, \"Herr,\" and, to use an old expression, may all your troubles be little ones.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "True love is better than glory.\nWas born in due time in the metropolis of Laconia, one of the suburbs of Concord. In the fall of 1907 he came to Durham, a serious, conscientious lad, and has ever since remained true to someone who claimed his attentions before coming to college. It is rumored that he will form a partnership after graduation. If so, good luck, \"Herr,\" and, to use an old expression, may all your troubles be little ones.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.0"
+  },
+  {
+    "name": "Brown, Albert Huckins",
+    "nicknames": [
+      "Brownie"
+    ],
+    "gender": "Male",
+    "high school": "Austin-Cate Academy",
+    "motto": "There are but few who know the treasures hid in thee.",
+    "birthday": "",
+    "hometown": "Strafford",
+    "enrolltime": "",
+    "major": "Agricultural",
+    "clubs": [
+      "Cane Rush (1), two hands",
+      "Corporal (2)",
+      "Second Lieutenant and Quartermaster (3)"
+    ],
+    "description": "\"Brownie\" hails from Strafford and is a walking history of the town and its inhabitants. His characteristics are extreme taciturnity, moderation in eating and studious habits. \"Brownie\" takes the real original \"Aggie\" course and as a side line has been experimenting with a new variety of western grown tobacco. Here's to you, \"Brownie,\" may you always be jolly.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "There are but few who know the treasures hid in thee.\n\"Brownie\" hails from Strafford and is a walking history of the town and its inhabitants. His characteristics are extreme taciturnity, moderation in eating and studious habits. \"Brownie\" takes the real original \"Aggie\" course and as a side line has been experimenting with a new variety of western grown tobacco. Here's to you, \"Brownie,\" may you always be jolly.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Brown, Charles Owen",
+    "nicknames": [
+      "C. O.",
+      "Cob"
+    ],
+    "gender": "Male",
+    "high school": "Concord High School",
+    "motto": "Speaks an infinite deal of nothing.",
+    "birthday": "",
+    "hometown": "Concord",
+    "enrolltime": "",
+    "major": "Chemical Engineering",
+    "clubs": [
+      "Class Football (1)",
+      "Associate Editor College Monthly (1)",
+      "Assistant Business Manager College Monthly (2)",
+      "Business Manager College Monthly (2)",
+      "Glee Club (3)",
+      "Business Manager 1911 GRANITE"
+    ],
+    "description": "We won't say exactly where \"C. O.\" came from, for we are afraid it might reflect on the town. \"Brownie\" is quite a talker; he talks about automobiles, he talks about money, he talks about nothing, in fact, \"Cob\" talks fluently on any subject, even about himself. But this same quality has made him a good Business Manager for the GRANITE, because every business man gives an \"ad\" in self-defense. \"C. O.\" is a ladies' man and finds a railroad pass (to Boston) very useful in his business.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Speaks an infinite deal of nothing.\nWe won't say exactly where \"C. O.\" came from, for we are afraid it might reflect on the town. \"Brownie\" is quite a talker; he talks about automobiles, he talks about money, he talks about nothing, in fact, \"Cob\" talks fluently on any subject, even about himself. But this same quality has made him a good Business Manager for the GRANITE, because every business man gives an \"ad\" in self-defense. \"C. O.\" is a ladies' man and finds a railroad pass (to Boston) very useful in his business.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Burbeck, Perry James",
+    "nicknames": [
+      "Perry"
+    ],
+    "gender": "Male",
+    "high school": "Haverhill Academy",
+    "motto": "With learned mien, He burns the midnight kerosene.",
+    "birthday": "",
+    "hometown": "Haverhill",
+    "enrolltime": "",
+    "major": "Electrical Engineering",
+    "clubs": [
+      "Cane Rush (2), one hand",
+      "Class Football (2)",
+      "Class Baseball (1) (2)",
+      "Class Track (1) (2)",
+      "Corporal (2)",
+      "Second Lieutenant (3)"
+    ],
+    "description": "\"Perry,\" like many another illustrious genius, was born in a quiet little village. He is one of those who still stick to the idea that college is a place for study, and has consequently amassed quite a knowledge of matters electrical. \"Perry\" is a woman hater to those who do not know him, but those who are on the inside predict him a Benedict soon after graduation. We suppose he will follow Horace Greeley's advice and migrate westward.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "With learned mien, He burns the midnight kerosene.\n\"Perry,\" like many another illustrious genius, was born in a quiet little village. He is one of those who still stick to the idea that college is a place for study, and has consequently amassed quite a knowledge of matters electrical. \"Perry\" is a woman hater to those who do not know him, but those who are on the inside predict him a Benedict soon after graduation. We suppose he will follow Horace Greeley's advice and migrate westward.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Carpenter, Roy Elbert",
+    "nicknames": [
+      "Carp",
+      "Percy"
+    ],
+    "gender": "Male",
+    "high school": "Medford High School",
+    "motto": "He is the very pineapple of politeness.",
+    "birthday": "",
+    "hometown": "Medford, Mass.",
+    "enrolltime": "",
+    "major": "Electrical Engineering",
+    "clubs": [
+      "Dover Club",
+      "ΔΞ",
+      "Class Football (1) (2)",
+      "Class Baseball (2)",
+      "Class Track (2)",
+      "Secretary Athletic Association (3)",
+      "Corporal (2)",
+      "First Sergeant (3)",
+      "Second Lieutenant (3)",
+      "Assistant Business Manager 1911 GRANITE"
+    ],
+    "description": "Did anything good ever come from Medford? Look at him. He is a ladies' man, and can tell the name of every girl who frequents \"Powder House Square,\" Somerville. He is an active member and attends every meeting and a great many more besides that are not regular. He is also a familiar figure at \"Scotty's\" afternoon \"Pol. Econ.\" receptions. He is not much of a singer, but he can render \"Hurrah for the Brown and Blue\" in a manner that will cause the tears to flow down the back of your neck. He expects to become mayor of Dover.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "He is the very pineapple of politeness.\nDid anything good ever come from Medford? Look at him. He is a ladies' man, and can tell the name of every girl who frequents \"Powder House Square,\" Somerville. He is an active member and attends every meeting and a great many more besides that are not regular. He is also a familiar figure at \"Scotty's\" afternoon \"Pol. Econ.\" receptions. He is not much of a singer, but he can render \"Hurrah for the Brown and Blue\" in a manner that will cause the tears to flow down the back of your neck. He expects to become mayor of Dover.",
+    "Appearance": "0.1",
+    "Character_Personality": "0.9",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Colby, Arthur Samuel",
+    "nicknames": [
+      "Amos"
+    ],
+    "gender": "Male",
+    "high school": "Tilton Seminary",
+    "motto": "Bachelors have a right to be fussy.",
+    "birthday": "",
+    "hometown": "Tilton",
+    "enrolltime": "",
+    "major": "Agricultural",
+    "clubs": [
+      "Γθ",
+      "Treasurer Y. M. C. A. (2)",
+      "President Y. M. C. A. (3)",
+      "Assistant Basketball Manager (3)",
+      "Secretary and Treasurer Agricultural Club (3)"
+    ],
+    "description": "He is a pretty good old soul. Most every Sunday he goes to Y. M. C. A. meeting and gives everyone a word of welcome or else selects a hymn which nobody knows. He used to take a great interest in collecting \"bugs,\" but when he had collected one hundred and one and \"Cicero\" told him that eighty-three were no good, he began to lose interest in the work— but he told \"Sandy\" that he had derived a great deal of benefit from the course. He takes \"Aggie\" chiefly on account of the stenographers in that department. He will get his degree in 1911 and some day will be Secretary of Agriculture.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Bachelors have a right to be fussy.\nHe is a pretty good old soul. Most every Sunday he goes to Y. M. C. A. meeting and gives everyone a word of welcome or else selects a hymn which nobody knows. He used to take a great interest in collecting \"bugs,\" but when he had collected one hundred and one and \"Cicero\" told him that eighty-three were no good, he began to lose interest in the work— but he told \"Sandy\" that he had derived a great deal of benefit from the course. He takes \"Aggie\" chiefly on account of the stenographers in that department. He will get his degree in 1911 and some day will be Secretary of Agriculture.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Demerritt, Margaret",
+    "nicknames": [
+      "Margaret"
+    ],
+    "gender": "Female",
+    "high school": "Dover High School",
+    "motto": "Whose school-hours are all days and nights of her existence.",
+    "birthday": "",
+    "hometown": "Durham",
+    "enrolltime": "",
+    "major": "Arts and Science",
+    "clubs": [
+      "W.H.A.",
+      "Social Committee (1) (2) (3)",
+      "Secretary Social Committee (2) (3)",
+      "Valentine Smith Scholarship (3)",
+      "Class Historian (1) (2) (3)"
+    ],
+    "description": "She is one of Durham's fairest maidens and is known throughout college for the fine \"feeds\" she gives at \"Broad Acres.\" She attends every recitation, rain or shine, and, as a reward, draws the best of marks. She developed a keen interest in the military department two years ago. She is one of those who will surely stand by us until the last day.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Whose school-hours are all days and nights of her existence.\nShe is one of Durham's fairest maidens and is known throughout college for the fine \"feeds\" she gives at \"Broad Acres.\" She attends every recitation, rain or shine, and, as a reward, draws the best of marks. She developed a keen interest in the military department two years ago. She is one of those who will surely stand by us until the last day.",
+    "Appearance": "0.2",
+    "Character_Personality": "0.8",
+    "Ability": "0.9"
+  },
+  {
+    "name": "Drew, Mariette Alice",
+    "nicknames": [
+      "Mariette"
+    ],
+    "gender": "Female",
+    "high school": "Colebrook High School",
+    "motto": "It would talk, Lord! how it talked!",
+    "birthday": "",
+    "hometown": "Colebrook",
+    "enrolltime": "",
+    "major": "Arts and Science",
+    "clubs": [
+      "With-Drew Club",
+      "W.H.A.",
+      "Class Secretary (1) (2) (3)",
+      "Associate Editor 1911 GRANITE"
+    ],
+    "description": "Who hasn't heard of \"Mariette?\" If there be one who hasn't, let him come forward and be introduced — it is part of his college education. \"Mariette\" was one of the charter members of the \"With-Drew Club\" — a society organized in 1907 for the \"Prevention of Cruelty to Co-eds.\" During her Freshman year \"Mariette\" seriously contemplated taking the \"Chem.\" course and, in fact, has been closely affiliated with it ever since. If \"Billy\" Groves' courses hold out, she expects to be in for the finish in June, 1911.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "It would talk, Lord! how it talked!\nWho hasn't heard of \"Mariette?\" If there be one who hasn't, let him come forward and be introduced — it is part of his college education. \"Mariette\" was one of the charter members of the \"With-Drew Club\" — a society organized in 1907 for the \"Prevention of Cruelty to Co-eds.\" During her Freshman year \"Mariette\" seriously contemplated taking the \"Chem.\" course and, in fact, has been closely affiliated with it ever since. If \"Billy\" Groves' courses hold out, she expects to be in for the finish in June, 1911.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Easterbrook, Ralph Lewis",
+    "nicknames": [
+      "Ralph",
+      "Easter"
+    ],
+    "gender": "Male",
+    "high school": "Nichols Academy",
+    "motto": "A meek, mysterious man.",
+    "birthday": "",
+    "hometown": "Dudley, Mass.",
+    "enrolltime": "",
+    "major": "Agricultural",
+    "clubs": [
+      "Class Basketball (1) (2)",
+      "Class Baseball (1) (2)",
+      "Student Council (3)"
+    ],
+    "description": "\"Ralph\" came into town quietly one day and has lived quietly ever since. But \"Easter\" proved to be a valuable find when basketball season came. Before the game in our Sophomore year, he was the subject of much discussion and direful plotting. The Freshmen said to each other, \"We must cause the sudden downfall of this foul-shooting prodigy,\" but \"Easter\" survived and won the game for 1911. The Agricultural course is \"Ralph's\" choice and we wish him good luck.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "A meek, mysterious man.\n\"Ralph\" came into town quietly one day and has lived quietly ever since. But \"Easter\" proved to be a valuable find when basketball season came. Before the game in our Sophomore year, he was the subject of much discussion and direful plotting. The Freshmen said to each other, \"We must cause the sudden downfall of this foul-shooting prodigy,\" but \"Easter\" survived and won the game for 1911. The Agricultural course is \"Ralph's\" choice and we wish him good luck.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "1.0"
+  },
+  {
+    "name": "Hatch, Olive Estelle",
+    "nicknames": [
+      "Olive"
+    ],
+    "gender": "Female",
+    "high school": "Dover High School",
+    "motto": "A still, small voice.",
+    "birthday": "",
+    "hometown": "Dover",
+    "enrolltime": "",
+    "major": "Arts and Science",
+    "clubs": [],
+    "description": "She is not generally interested in social affairs in Durham, but once interested she feels like \"jumping over the table.\" She has failed courses in gossip 6, 7, and 8, but otherwise her marks are a credit to the class. \"Olive's\" hobby is dissecting cats and writing life histories of animals. Good luck to you, Olive, keep on with your good work.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "A still, small voice.\nShe is not generally interested in social affairs in Durham, but once interested she feels like \"jumping over the table.\" She has failed courses in gossip 6, 7, and 8, but otherwise her marks are a credit to the class. \"Olive's\" hobby is dissecting cats and writing life histories of animals. Good luck to you, Olive, keep on with your good work.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Hoben, Francis Michael",
+    "nicknames": [
+      "Mike"
+    ],
+    "gender": "Male",
+    "high school": "Concord High School",
+    "motto": "If at first you don't succeed, try again.",
+    "birthday": "",
+    "hometown": "Concord",
+    "enrolltime": "",
+    "major": "Chemical Engineering",
+    "clubs": [
+      "ZEZ",
+      "Casque and Casket",
+      "Military Band (2)",
+      "Drum Major (3)"
+    ],
+    "description": "He is one of the veterans of the class. He has a military record that would be hard to beat, having been on the active list four years in high school and two years here - one year in the ranks and one in the Alto section. Last year he was promoted for bravery in action and now holds the honorable position of Drum Major. Barring a slight resemblance to \"Theron\" \"Mike\" is a good director. When \"Sousa\" lays down the baton there will have passed away one of the most famous military men of the age.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "If at first you don't succeed, try again.\nHe is one of the veterans of the class. He has a military record that would be hard to beat, having been on the active list four years in high school and two years here - one year in the ranks and one in the Alto section. Last year he was promoted for bravery in action and now holds the honorable position of Drum Major. Barring a slight resemblance to \"Theron\" \"Mike\" is a good director. When \"Sousa\" lays down the baton there will have passed away one of the most famous military men of the age.",
+    "Appearance": "0.1",
+    "Character_Personality": "0.8",
+    "Ability": "0.9"
+  },
+  {
+    "name": "Judkins, Henry Forrest",
+    "nicknames": [
+      "Jud"
+    ],
+    "gender": "Male",
+    "high school": "Sanborn Seminary",
+    "motto": "The farmers are the founders of civilization.",
+    "birthday": "",
+    "hometown": "Kingston",
+    "enrolltime": "1907",
+    "major": "Agricultural",
+    "clubs": [
+      "ZEZ",
+      "AZ",
+      "Class Baseball (1) (2)",
+      "Cheer Leader (3)",
+      "Associate Editor College Monthly (3)",
+      "Associate Editor 1911 GRANITE"
+    ],
+    "description": "He was a quiet lad when he entered college in the fall of '07, but has developed wonderfully. He can now yell with exceptional vigor and make everyone else join in the good work. \"Jud\" certainly is the right kind of a cheer leader. This Kingston fellow is taking a sort of correspondence course here, judging from the length of time he is away doing \"Aggie\" stunts throughout the state. Nevertheless, when \"Jud\" receives his sheepskin, we predict a new authority in the agricultural profession.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "The farmers are the founders of civilization.\nHe was a quiet lad when he entered college in the fall of '07, but has developed wonderfully. He can now yell with exceptional vigor and make everyone else join in the good work. \"Jud\" certainly is the right kind of a cheer leader. This Kingston fellow is taking a sort of correspondence course here, judging from the length of time he is away doing \"Aggie\" stunts throughout the state. Nevertheless, when \"Jud\" receives his sheepskin, we predict a new authority in the agricultural profession.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.9"
+  },
+  {
+    "name": "Nason, Carl Eastman",
+    "nicknames": [
+      "Deac"
+    ],
+    "gender": "Male",
+    "high school": "Concord High School",
+    "motto": "I am, sir, a Brother of the Angle.",
+    "birthday": "",
+    "hometown": "Concord",
+    "enrolltime": "",
+    "major": "Electrical Engineering",
+    "clubs": [
+      "Cane Rush (1), one hand"
+    ],
+    "description": "Entered college in his dignified, matter-of-fact way and has continued thus up to the present time. The most undignified thing he ever did was to get into the Cane Rush at the beginning of our Freshman year. In this, however, his long arms counted, for he got one hand on the coveted \"stick,\" thereby adding one point to 1911's winning total. \"Deac\" enjoyed his Freshman studies very much, in fact, so well that he even hesitated to register Sophomore, but finally decided to advance with the \"bunch.\"",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "I am, sir, a Brother of the Angle.\nEntered college in his dignified, matter-of-fact way and has continued thus up to the present time. The most undignified thing he ever did was to get into the Cane Rush at the beginning of our Freshman year. In this, however, his long arms counted, for he got one hand on the coveted \"stick,\" thereby adding one point to 1911's winning total. \"Deac\" enjoyed his Freshman studies very much, in fact, so well that he even hesitated to register Sophomore, but finally decided to advance with the \"bunch.\"",
+    "Appearance": "0.2",
+    "Character_Personality": "0.8",
+    "Ability": "0.4"
+  },
+  {
+    "name": "Parker, Edward Gookin",
+    "nicknames": [
+      "Gook",
+      "Ed"
+    ],
+    "gender": "Male",
+    "high school": "Portsmouth High School",
+    "motto": "I always get the better when I argue alone.",
+    "birthday": "",
+    "hometown": "Portsmouth",
+    "enrolltime": "",
+    "major": "Chemical Engineering",
+    "clubs": [
+      "Cane Rush (1), one hand",
+      "Cane Rush (2), two hands",
+      "Class Basketball (1) (2)",
+      "Captain Class Basketball (2)",
+      "Varsity Basketball (3)",
+      "Associate Editor 1911 GRANITE"
+    ],
+    "description": "\"Are we in it? Well, I guess, Portsmouth, Rah! Rah!\" \"Gook\" is the most loyal man to Portsmouth that ever stood on the wharf. Strange he should come way up here to get his military training with a navy yard just across the brink in Kittery. \"Ed\" is also one of the \"Chem. Bunch\" where he makes about an even break of everything. He expects to make a living in after life by doing secretary work and odd jobs for Dr. Randall.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "I always get the better when I argue alone.\n\"Are we in it? Well, I guess, Portsmouth, Rah! Rah!\" \"Gook\" is the most loyal man to Portsmouth that ever stood on the wharf. Strange he should come way up here to get his military training with a navy yard just across the brink in Kittery. \"Ed\" is also one of the \"Chem. Bunch\" where he makes about an even break of everything. He expects to make a living in after life by doing secretary work and odd jobs for Dr. Randall.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.3"
+  },
+  {
+    "name": "Parker, William Folger",
+    "nicknames": [
+      "Bill"
+    ],
+    "gender": "Male",
+    "high school": "Goffstown High School",
+    "motto": "Sensible and yet he seemeth not.",
+    "birthday": "",
+    "hometown": "Goffstown",
+    "enrolltime": "",
+    "major": "Arts and Science",
+    "clubs": [
+      "Cane Rush (1), one hand"
+    ],
+    "description": "Look at this sweet round-faced lad. He comes from Goffstown. With possibly one or two exceptions he is the noisiest man in college. If at any time you hear a noise that sounds like a cross between a flock of geese and the College Band you may rest assured that \"Bill\" is somewhere in the vicinity. He believes in variety, so he has made a try at nearly every course in college. \"Bill\" thinks he will quiet down some day. He says he is sorry that he comes from Goffstown, but that he is going to lead a better life.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Sensible and yet he seemeth not.\nLook at this sweet round-faced lad. He comes from Goffstown. With possibly one or two exceptions he is the noisiest man in college. If at any time you hear a noise that sounds like a cross between a flock of geese and the College Band you may rest assured that \"Bill\" is somewhere in the vicinity. He believes in variety, so he has made a try at nearly every course in college. \"Bill\" thinks he will quiet down some day. He says he is sorry that he comes from Goffstown, but that he is going to lead a better life.",
+    "Appearance": "0.2",
+    "Character_Personality": "0.9",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Bret Please",
+    "nicknames": [
+      "Bret",
+      "Peggy"
+    ],
+    "gender": "Male",
+    "high school": "New Hampton Literary Institution",
+    "motto": "Absence makes the heart grow fonder.",
+    "birthday": "",
+    "hometown": "Ashland, New Hampshire",
+    "enrolltime": "1907",
+    "major": "Electrical Engineering",
+    "clubs": [
+      "Cane Rush (2), two hands"
+    ],
+    "description": "In the fall of 1907 decided that climbing telephone poles was not a good occupation, and then was here, too, so what could do but come. and the tandem were familiar sights of the roadside during our Sophomore year. When the \"Hen House\" was built applied for the janitor's job, but got stung; nevertheless, he succeeded in hanging around the joint for a whole year. expects to get married in June, 1911, when he and his spouse will begin a two-year engagement at the Old Howard doing fancy stunts at tandem riding.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Absence makes the heart grow fonder.\nIn the fall of 1907 decided that climbing telephone poles was not a good occupation, and then was here, too, so what could do but come. and the tandem were familiar sights of the roadside during our Sophomore year. When the \"Hen House\" was built applied for the janitor's job, but got stung; nevertheless, he succeeded in hanging around the joint for a whole year. expects to get married in June, 1911, when he and his spouse will begin a two-year engagement at the Old Howard doing fancy stunts at tandem riding.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.4"
+  },
+  {
+    "name": "Leonard Emerson Pierce",
+    "nicknames": [
+      "Kid",
+      "Chesty"
+    ],
+    "gender": "Male",
+    "high school": "Worcester Academy",
+    "motto": "Why, then, do you walk as if you had swallowed a ramrod?",
+    "birthday": "",
+    "hometown": "Worcester, Mass.",
+    "enrolltime": "",
+    "major": "Electrical Engineering",
+    "clubs": [
+      "KΣ",
+      "Cane Rush (1), two hands",
+      "Class Football (1) (2)",
+      "Class Baseball Manager (1) (2)",
+      "Assistant Manager Varsity Baseball",
+      "Corporal (2)",
+      "Sergeant Major (3)"
+    ],
+    "description": "came to us from the Heart of the Commonwealth of Massachusetts. Seeking a cinch course, someone suggested \"E. E.\" and swallowed the bait. has made many friends while here, but the majority in the surrounding towns. Between trips to Dover, and other places, he has done enough work to soothe the faculty in order to be with us in June, 1911. is an awful \"fusser,\" and will leave fond memories in the hearts of Dover's fair maidens.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Why, then, do you walk as if you had swallowed a ramrod?\ncame to us from the Heart of the Commonwealth of Massachusetts. Seeking a cinch course, someone suggested \"E. E.\" and swallowed the bait. has made many friends while here, but the majority in the surrounding towns. Between trips to Dover, and other places, he has done enough work to soothe the faculty in order to be with us in June, 1911. is an awful \"fusser,\" and will leave fond memories in the hearts of Dover's fair maidens.",
+    "Appearance": "0.1",
+    "Character_Personality": "0.9",
+    "Ability": "0.4"
+  },
+  {
+    "name": "Benjamin Franklin Proud",
+    "nicknames": [
+      "Ben"
+    ],
+    "gender": "Male",
+    "high school": "Manchester High School",
+    "motto": "Hail to the chief!",
+    "birthday": "",
+    "hometown": "Manchester, New Hampshire",
+    "enrolltime": "",
+    "major": "Arts and Science",
+    "clubs": [
+      "KΣ",
+      "Casque and Casket",
+      "Class President (1) (2) (3)",
+      "Cane Rush (1) one hand",
+      "Varsity Football (1) (2) (3)",
+      "Captain Varsity Football (4)",
+      "Class Football (1) (2)",
+      "Class Basketball (1) (2)",
+      "Class Baseball (1) (2)",
+      "Corporal (2)",
+      "First Sergeant (3)",
+      "Glee Club (3)",
+      "Associate Editor 1911 GRANITE"
+    ],
+    "description": "has been our president for three years and has worked hard to uphold the honor of 1911. He has represented us on the Varsity football team every season, and is the only man in the class who has won his numerals six times. It didn't take long to discover that engineering had no attraction for him, so he is now a thorough Arts and Science man who swears by \"Billy\" and all his courses.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Hail to the chief!\nhas been our president for three years and has worked hard to uphold the honor of 1911. He has represented us on the Varsity football team every season, and is the only man in the class who has won his numerals six times. It didn't take long to discover that engineering had no attraction for him, so he is now a thorough Arts and Science man who swears by \"Billy\" and all his courses.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.9"
+  },
+  {
+    "name": "Quimby, Waldo Hutchinson",
+    "nicknames": [
+      "Waldo",
+      "Quim"
+    ],
+    "gender": "Male",
+    "high school": "Concord High School",
+    "motto": "Perseverance wins success.",
+    "birthday": "",
+    "hometown": "Concord",
+    "enrolltime": "",
+    "major": "Electrical Engineering",
+    "clubs": [
+      "Corporal (2)"
+    ],
+    "description": "Although was so unfortunate as to be obliged to stay out of college a year, he has returned and again joined the ranks of 1911, which simply serves to show his good judgment. is one of those who never go to Newmarket, but instead writes a \"certain\" letter every day. It is rumored that will form a partnership after he gets his degree.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Perseverance wins success.\nAlthough was so unfortunate as to be obliged to stay out of college a year, he has returned and again joined the ranks of 1911, which simply serves to show his good judgment. is one of those who never go to Newmarket, but instead writes a \"certain\" letter every day. It is rumored that will form a partnership after he gets his degree.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Scott, Bessie Amanda",
+    "nicknames": [
+      "Bessie"
+    ],
+    "gender": "Female",
+    "high school": "Tyson, Vt.",
+    "motto": "Maidens should be mild and meek, Swift to hear and slow to speak.",
+    "birthday": "",
+    "hometown": "Tyson, Vt.",
+    "enrolltime": "1906",
+    "major": "Arts and Science",
+    "clubs": [],
+    "description": "Blew in from the Green Mountain state in 1906, but there is nothing green about her except her last year's suit. Her distinguishing characteristics are a habit of electing German courses and a particular fondness for \"Pie.\" She is a patron of athletics and has herself made several noteworthy \"cross-country\" records.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Maidens should be mild and meek, Swift to hear and slow to speak.\nBlew in from the Green Mountain state in 1906, but there is nothing green about her except her last year's suit. Her distinguishing characteristics are a habit of electing German courses and a particular fondness for \"Pie.\" She is a patron of athletics and has herself made several noteworthy \"cross-country\" records.",
+    "Appearance": "0.2",
+    "Character_Personality": "0.7",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Stark, Eldon Eugene",
+    "nicknames": [
+      "Molly"
+    ],
+    "gender": "Male",
+    "high school": "Haverhill Academy",
+    "motto": "As cold as cucumbers.",
+    "birthday": "",
+    "hometown": "Haverhill",
+    "enrolltime": "",
+    "major": "Electrical Engineering",
+    "clubs": [
+      "Block Orchestra",
+      "Band",
+      "College Orchestra",
+      "Class Baseball",
+      "Class Football",
+      "Military Band",
+      "Orchestra",
+      "Leader Orchestra",
+      "Student Council",
+      "Treasurer Athletic Association",
+      "Corporal",
+      "First Lieutenant",
+      "Secretary Rifle Club",
+      "Associate Editor 1911 GRANITE"
+    ],
+    "description": "Blew into town and settled in the \"Block.\" He has been blowing most of the time since, that is, when he hasn't had such a \"grouch\" that he couldn't or wouldn't. He is a society man and in demand at Smith Hall and Newmarket. He is a \"fusser\" and does not bite.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "As cold as cucumbers.\nBlew into town and settled in the \"Block.\" He has been blowing most of the time since, that is, when he hasn't had such a \"grouch\" that he couldn't or wouldn't. He is a society man and in demand at Smith Hall and Newmarket. He is a \"fusser\" and does not bite.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.9",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Tuttle, Harry Benjamin",
+    "nicknames": [
+      "Tut"
+    ],
+    "gender": "Male",
+    "high school": "Atkinson Academy",
+    "motto": "Up from the meadows green with corn.",
+    "birthday": "",
+    "hometown": "Atkinson",
+    "enrolltime": "",
+    "major": "Agricultural",
+    "clubs": [],
+    "description": "Hails from Atkinson (wherever that is) and is taking the \"Aggie\" course. Whatever his life work may be, \"Tut\" will try to find time to put into practice some of \"Art's\" course in Physics, in which he took such an interest during his Sophomore year. Tuttle has been a consistent worker while here and we wish him the best of success.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Up from the meadows green with corn.\nHails from Atkinson (wherever that is) and is taking the \"Aggie\" course. Whatever his life work may be, \"Tut\" will try to find time to put into practice some of \"Art's\" course in Physics, in which he took such an interest during his Sophomore year. Tuttle has been a consistent worker while here and we wish him the best of success.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Warner, William Pearl Jr.",
+    "nicknames": [
+      "Bill"
+    ],
+    "gender": "Male",
+    "high school": "Sanborn Seminary",
+    "motto": "Full many a flower is born to blush unseen.",
+    "birthday": "",
+    "hometown": "Plaistow",
+    "enrolltime": "",
+    "major": "Agricultural",
+    "clubs": [
+      "Granger"
+    ],
+    "description": "This boy is a promising Granger and has also been mayor of the town from which he comes, for many years. If it is ever hot enough for him to get his degree, \"Bill\" expects to retire to his native home and make the taking of summer boarders his chief occupation.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Full many a flower is born to blush unseen.\nThis boy is a promising Granger and has also been mayor of the town from which he comes, for many years. If it is ever hot enough for him to get his degree, \"Bill\" expects to retire to his native home and make the taking of summer boarders his chief occupation.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.4"
+  },
+  {
+    "name": "Whittemore, Charles Farnum",
+    "nicknames": [
+      "Whit",
+      "Doc"
+    ],
+    "gender": "Male",
+    "high school": "Concord High School",
+    "motto": "Silence is golden.",
+    "birthday": "1889-01-01",
+    "hometown": "Pembroke",
+    "enrolltime": "",
+    "major": "Chemical Engineering",
+    "clubs": [
+      "KΣ",
+      "Casque and Casket",
+      "Class Treasurer (1) (2) (3)",
+      "Class Track (1) (2)",
+      "Social Committee (2) (3)",
+      "College Medal, Prize Drill (1)",
+      "Corporal (2)",
+      "Second Lieutenant (3)",
+      "First Lieutenant and Adjutant (3)",
+      "Track Manager (3)",
+      "Associate Editor College Monthly (2) (3)",
+      "Editor-in-chief 1911 GRANITE"
+    ],
+    "description": "Although it is impossible to get \"Doc\" up until 7.53 o'clock in the morning, a glance at his college record suffices to show that he hasn't been asleep all of the time. \"Whit\" has chosen chemistry for his life's work.",
+    "University": "University of New Hampshire",
+    "year": 1911,
+    "text": "Silence is golden.\nAlthough it is impossible to get \"Doc\" up until 7.53 o'clock in the morning, a glance at his college record suffices to show that he hasn't been asleep all of the time. \"Whit\" has chosen chemistry for his life's work.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.8"
+  }
+]

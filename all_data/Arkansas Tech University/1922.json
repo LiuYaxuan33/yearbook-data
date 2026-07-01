@@ -1,0 +1,594 @@
+[
+  {
+    "name": "Myover, James A.",
+    "nicknames": [
+      "Jim"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Shirley, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "President Senior Class",
+      "Assistant Editor Agricola",
+      "President Lee Debating Society (2nd Term)",
+      "Band",
+      "Choir",
+      "Football '21",
+      "Glee Club"
+    ],
+    "description": "After serving Uncle Sam in the Navy, \"Jim\" came here to prepare himself to serve Arkansas. We know that he will not fail.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nAfter serving Uncle Sam in the Navy, \"Jim\" came here to prepare himself to serve Arkansas. We know that he will not fail.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.9"
+  },
+  {
+    "name": "Vaughan, Veda",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Russellville, Ark.",
+    "enrolltime": "1922",
+    "major": "Senior",
+    "clubs": [
+      "Secretary Lee Debating Society (1st Term)",
+      "Basketball",
+      "Glee Club",
+      "Secretary Senior Class"
+    ],
+    "description": "Any organization or meeting is not complete without Veda. Her sweet, sweet personality has won her many friends.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nAny organization or meeting is not complete without Veda. Her sweet, sweet personality has won her many friends.",
+    "Appearance": "0.0",
+    "Character_Personality": "1.0",
+    "Ability": "0.0"
+  },
+  {
+    "name": "Nolen, Roy A.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Charleston, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Vice President Senior Class",
+      "Vice President Lee Debating Society, '20"
+    ],
+    "description": "Roy is a willing student, his presence has raised the standard of the Senior Class. He hailed from the U. S. Navy in 1919, after serving through the World War.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nRoy is a willing student, his presence has raised the standard of the Senior Class. He hailed from the U. S. Navy in 1919, after serving through the World War.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Stanley, Frank R.",
+    "nicknames": [
+      "Slats"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Fort Smith, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Vice President Lee Debating Society (2nd term)",
+      "football, '19, '21"
+    ],
+    "description": "\"Slats\" is one of the most popular young men in school. He is ready at all times to lend a willing hand to help someone. We wish him success.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\n\"Slats\" is one of the most popular young men in school. He is ready at all times to lend a willing hand to help someone. We wish him success.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Wilkins, Harden",
+    "nicknames": [
+      "Wilk"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Russellville, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Business Manager of Agricola"
+    ],
+    "description": "Wilkins is an ardent believer in outdoor exercises. He and his pet bull pup take long hikes every morning.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nWilkins is an ardent believer in outdoor exercises. He and his pet bull pup take long hikes every morning.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.0"
+  },
+  {
+    "name": "Parkinson, Sarah",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Altus, Ark.",
+    "enrolltime": "1922",
+    "major": "Senior",
+    "clubs": [
+      "Lee Debating Society"
+    ],
+    "description": "Sarah, who is your pal? She can always be counted upon to do her share of class activities.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nSarah, who is your pal? She can always be counted upon to do her share of class activities.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Putman, John J.",
+    "nicknames": [
+      "Put"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Rogers, Arkansas",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "President Lee Debating Society (1st Term)",
+      "Editor-in-chief of Agricola",
+      "Band",
+      "Orchestra",
+      "Debating Team '21"
+    ],
+    "description": "Ambition rules his brain, and love his heart. \"Johnnie\" is great in \"Stump speeches.\" He has been a leader in the school activities and will be greatly missed next year.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nAmbition rules his brain, and love his heart. \"Johnnie\" is great in \"Stump speeches.\" He has been a leader in the school activities and will be greatly missed next year.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Westerfield, Carrie Lee",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Little Rock, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Secretary Lee Debating Society (3rd Term)",
+      "Class Editor Agricola",
+      "Glee Club",
+      "Choir",
+      "Expression Medal '21"
+    ],
+    "description": "Her personality is her fortune. Carrie Lee has a wonderful voice. We expect great things to come from her musical ability.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nHer personality is her fortune. Carrie Lee has a wonderful voice. We expect great things to come from her musical ability.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "1.0"
+  },
+  {
+    "name": "Fortner, Ada Mai",
+    "nicknames": [
+      "Ada"
+    ],
+    "gender": "Female",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Brownsville, Tenn.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Debating team '22",
+      "Expression Medal '20",
+      "Choir",
+      "Glee Club"
+    ],
+    "description": "Although she excels in expression, her talents are not limited to that work. Ada goes about with a smile, spreading sunshine.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nAlthough she excels in expression, her talents are not limited to that work. Ada goes about with a smile, spreading sunshine.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Powers, E. Denton",
+    "nicknames": [
+      "Spatch"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"It's the little things that count.\"",
+    "birthday": "",
+    "hometown": "Fort Smith, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "President Lee Debating Society, (3rd term)",
+      "Football '19, '20, '21",
+      "Track '20, '21, '22",
+      "Athletic Editor Agricola"
+    ],
+    "description": "Denton is a favorite among the girls and delights in being in their presence. He is almost a pet of our school and will doubtless be missed next year.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\"It's the little things that count.\"\nDenton is a favorite among the girls and delights in being in their presence. He is almost a pet of our school and will doubtless be missed next year.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.0"
+  },
+  {
+    "name": "Shoptaw, Ruth",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Russellville, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Choir",
+      "Glee Club"
+    ],
+    "description": "Ruth is thorough, efficient and able. In school she is studious and sincere.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nRuth is thorough, efficient and able. In school she is studious and sincere.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.9"
+  },
+  {
+    "name": "Pruett, Ben Frank",
+    "nicknames": [
+      "B. F."
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Russellville, Ark.",
+    "enrolltime": "1922",
+    "major": "Senior",
+    "clubs": [
+      "Treasurer of Senior Class",
+      "Arkansas Stock Judging Team",
+      "Band"
+    ],
+    "description": "If you are looking for a man who knows his own business and attends to it, Ben is the one you want. He is fond of livestock and delights in working with them.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nIf you are looking for a man who knows his own business and attends to it, Ben is the one you want. He is fond of livestock and delights in working with them.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.9"
+  },
+  {
+    "name": "Ellis, E. Lauhon",
+    "nicknames": [
+      "Rip"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Ozark, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Vice President, Lee Debating Society (1st Term)",
+      "Society Editor, Agricola",
+      "Football '19, '20, '21",
+      "Basket Ball",
+      "Track '19, '20, '21"
+    ],
+    "description": "Tall and handsome; what else could you ask? He has made \"Aggie\" a good student.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nTall and handsome; what else could you ask? He has made \"Aggie\" a good student.",
+    "Appearance": "0.8",
+    "Character_Personality": "0.2",
+    "Ability": "0.4"
+  },
+  {
+    "name": "Harrell, Euna",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Cato, Ark.",
+    "enrolltime": "1922",
+    "major": "Senior",
+    "clubs": [
+      "Glee Club",
+      "Lee Debating Society",
+      "Basket Ball"
+    ],
+    "description": "The basket ball team was fortunate in having Euna. She is an all round girl.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nThe basket ball team was fortunate in having Euna. She is an all round girl.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.3",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Farris, Emory",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Cato, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Circulation Manager Agricola",
+      "Lee Debating Society"
+    ],
+    "description": "A job is never too large to try or never too small to do his best on, with Emory. He does not shirk his duty when called upon to do anything.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nA job is never too large to try or never too small to do his best on, with Emory. He does not shirk his duty when called upon to do anything.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.9",
+    "Ability": "0.7"
+  },
+  {
+    "name": "McIlroy, Maud",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Eleven Point, Ark.",
+    "enrolltime": "1922",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Maud's task is to \"feed 'em\", and in this as well as in other undertakings she excels.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nMaud's task is to \"feed 'em\", and in this as well as in other undertakings she excels.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.9"
+  },
+  {
+    "name": "Agnew, Mary Elizabeth",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Roseville, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Glee Club",
+      "Choir",
+      "Basketball, '19, '20"
+    ],
+    "description": "Mary revels in long walks. She is one of our best students in the D. A. Department. Boys, look out for her, she can make shirts.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nMary revels in long walks. She is one of our best students in the D. A. Department. Boys, look out for her, she can make shirts.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.8"
+  },
+  {
+    "name": "Claxton, Douglas",
+    "nicknames": [
+      "Doug"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Stanton, Tenn.",
+    "enrolltime": "1922",
+    "major": "Senior",
+    "clubs": [
+      "Debating Society"
+    ],
+    "description": "Since Doug is slender, black of hair, with brilliant eyes, he is very attractive to the fair sex.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nSince Doug is slender, black of hair, with brilliant eyes, he is very attractive to the fair sex.",
+    "Appearance": "0.9",
+    "Character_Personality": "0.0",
+    "Ability": "0.0"
+  },
+  {
+    "name": "Hoppins, Elmer",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Green Forest, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Debating Society",
+      "Band",
+      "Orchestra"
+    ],
+    "description": "Elmer is earnest in his work and strives to beat his own records. We can count his friends by the number that know him.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nElmer is earnest in his work and strives to beat his own records. We can count his friends by the number that know him.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.6"
+  },
+  {
+    "name": "Claxton, William",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Stanton, Tenn.",
+    "enrolltime": "1922",
+    "major": "Senior",
+    "clubs": [
+      "Lee Debating Society"
+    ],
+    "description": "Although he hails from afar, we are proud to have him within our ranks. This is his first year, but he is well known.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nAlthough he hails from afar, we are proud to have him within our ranks. This is his first year, but he is well known.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Thompson, J. Paul",
+    "nicknames": [
+      "Preacher"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Fayetteville, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Lee Debating Society",
+      "Advertising Manager of Agricola",
+      "Choir",
+      "Glee Club",
+      "Band",
+      "Basket Ball",
+      "Track",
+      "Football '20, '21"
+    ],
+    "description": "Paul is our \"song bird.\" He is a good student, taking part in all activities.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nPaul is our \"song bird.\" He is a good student, taking part in all activities.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.5"
+  },
+  {
+    "name": "Linderman, Earl",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Wattensaw, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Alternate Debating Team '22",
+      "Glee Club"
+    ],
+    "description": "Although a new member of the class, he has proven himself a worthy one. We predict a bright future for him.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nAlthough a new member of the class, he has proven himself a worthy one. We predict a bright future for him.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.8"
+  },
+  {
+    "name": "Stokes, George W.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Blue Mountain, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Debating Society",
+      "Football '20, '21",
+      "Track '19"
+    ],
+    "description": "It is easy to make \"A's\" but they are hard to keep, thinks George. He has become an accomplished \"Ford\" driver during his stay at Aggie.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nIt is easy to make \"A's\" but they are hard to keep, thinks George. He has become an accomplished \"Ford\" driver during his stay at Aggie.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.8"
+  },
+  {
+    "name": "Newman, D. Autrey",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Scranton, Ark.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [
+      "Debating Team '22"
+    ],
+    "description": "As firm as the \"Rock of Gibraltar\" he faces all obstacles. Newman is self-confident and pushes forward regardless of opposition.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\nAs firm as the \"Rock of Gibraltar\" he faces all obstacles. Newman is self-confident and pushes forward regardless of opposition.",
+    "Appearance": "0.0",
+    "Character_Personality": "1.0",
+    "Ability": "0.7"
+  },
+  {
+    "name": "Norman Whaley",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Hard work is the key to success.\"",
+    "birthday": "",
+    "hometown": "Little Rock, Ark.",
+    "enrolltime": "1922",
+    "major": "Senior",
+    "clubs": [
+      "Debating Team '22"
+    ],
+    "description": "He is, indeed, a busy man.",
+    "University": "Arkansas Tech University",
+    "year": 1922,
+    "text": "\"Hard work is the key to success.\"\nHe is, indeed, a busy man.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.6"
+  }
+]

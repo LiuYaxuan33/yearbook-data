@@ -1,0 +1,643 @@
+[
+  {
+    "name": "Allen, Mary Elizabeth",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "Mississippian",
+    "motto": "\"She is pleasant with all, She is jolly with each, The school will be fortunate, That gets her to teach.\"",
+    "birthday": "",
+    "hometown": "Vaiden, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Vice President Athletic Association '20",
+      "Secretary Diploma Class '21",
+      "Captain Basketball Team '20 and '21"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_01.png"
+  },
+  {
+    "name": "Ball, M. H.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Prestonian",
+    "motto": "\"What is put into the first of life is put into the whole.\"",
+    "birthday": "",
+    "hometown": "Leakesville, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Reporter and Critic for Prestonian Literary Society '21",
+      "Member of Glee Club '21",
+      "Member of Y. M. C. A. and Tennis Club '21"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_01.png"
+  },
+  {
+    "name": "Barefoot, C. C.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Platonian",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Purvis, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Member of Collegiate Debating Team '21",
+      "Editor In Chief of Normal College News '21-22",
+      "three times President of Platonian Literary Society",
+      "Cabinet Member of Y. M. C. A. '21-22"
+    ],
+    "description": "His favorite greeting to fellow students: \"Boys, what have you got to eat?\"",
+    "image": "University of Southern Mississippi_1922_01.png"
+  },
+  {
+    "name": "Belk, Zack C.",
+    "nicknames": [
+      "Platonian"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Let every man be persuaded in his own mind.\"",
+    "birthday": "",
+    "hometown": "Union, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Masonic Club",
+      "Tennis Club",
+      "Leake and Neshoba County Club"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_02.png"
+  },
+  {
+    "name": "Cook, Ethel",
+    "nicknames": [
+      "Sherwood Bonner"
+    ],
+    "gender": "Female",
+    "high school": "",
+    "motto": "\"Ethel, the girl with many friends,\nHas the charm that always wins.\"",
+    "birthday": "",
+    "hometown": "Crystal Springs, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "President Copiah County Club '20-21",
+      "Member Y. W. C. A. Cabinet '20-21",
+      "House Chairman Honor Council '20-21",
+      "Secretary Hattiesburg Hall Story Tellers' League '21-22",
+      "Delegate Blue Ridge, N. C., '20-21",
+      "Treasurer Y. W. C. A. '21-22",
+      "Assistant Teacher Observation School '21-22"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_02.png"
+  },
+  {
+    "name": "Darby, J. J.",
+    "nicknames": [
+      "Prestonian"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"None but himself can be his parallel.\"",
+    "birthday": "",
+    "hometown": "Gulfport, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Gulf Coast and Tennis Clubs, '20-21, '21-22",
+      "College and Prestonian Society Debating Teams, '20-21",
+      "College Orator, '20-21",
+      "President Student Self Government Association, '21-22",
+      "Y. M. C. A. Representative to Blue Ridge '21"
+    ],
+    "description": "Attended M. N. C. in '16-17, one term; '19-20, two terms; '20-21, '21-22, whole session.",
+    "image": "University of Southern Mississippi_1922_02.png"
+  },
+  {
+    "name": "Davis, Jesse A.",
+    "nicknames": [
+      "Prestonian"
+    ],
+    "gender": "Male",
+    "high school": "Goss, Miss.",
+    "motto": "\"The world makes a way for the determined man.\"",
+    "birthday": "",
+    "hometown": "Marion County",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Society Secretary '20",
+      "Member of Y. M. C. A. Cabinet '21",
+      "Delegate to Blue Ridge '21",
+      "President Prestonian Society '21",
+      "Member of Ex-Service Men's Club",
+      "Tennis Club"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_03.png"
+  },
+  {
+    "name": "Davis, William Jefferson",
+    "nicknames": [
+      "Platonian"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Never let your studies interfere with your college life.\"",
+    "birthday": "",
+    "hometown": "Pearl River, La.; St. Tammany Parish",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "President of Platonian Literary Society '21-22",
+      "\"M\" Club '20-21-22",
+      "Member of Monroe County Club",
+      "Vice President of Certificate Class",
+      "Member of Diploma Class '22"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_03.png"
+  },
+  {
+    "name": "Edwards, A. G.",
+    "nicknames": [
+      "Platonian"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"He lives to build and not to boast a generous race.\"",
+    "birthday": "",
+    "hometown": "Richton, Miss.; Perry County",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Member Band '22",
+      "Glee Club '20-21-22",
+      "Society Chaplain '22"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_03.png"
+  },
+  {
+    "name": "Flurry, Hubert",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Perkinson, Miss.",
+    "motto": "\"Here's to Jelly, the noted Proctor, The rural schools, they need a Doctor, Jelly is ready, We'll send him out, 'Function Gang'! You'll hear him shout.\"",
+    "birthday": "",
+    "hometown": "Jackson County",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Varsity Football '20-21",
+      "Varsity Football '21-22",
+      "\"M\" Club two years",
+      "Member of Platonian Literary Society",
+      "Secretary of Masonic Club '21-22",
+      "Vice President of Gulf Coast Club '21-22",
+      "Class Prophet"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_04.png"
+  },
+  {
+    "name": "French, W. D.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"In idle wishes fools supinely stay. Be there a will then wisdom finds a way.\"",
+    "birthday": "",
+    "hometown": "Paris, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Vice President of Prestonian Literary Society '20",
+      "Secretary of Y. M. C. A. '21-22",
+      "Member of Honor Council and Class Poet '21-22"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_04.png"
+  },
+  {
+    "name": "Fugitt, Audie F.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"And thus he bore without abuse The grand old name of gentleman.\"",
+    "birthday": "",
+    "hometown": "Booneville, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "President Certificate Class '20-21",
+      "President Glee Club two years",
+      "College Quartet three years",
+      "College Orchestra three years",
+      "Leader College Band '21-22",
+      "Vice President Masonic Club two years",
+      "Vice President Y. M. C. A. '20-21",
+      "President Y. M. C. A. '21-22",
+      "Blue Ridge (N. C.) Delegate '21",
+      "Honor Council (H. C.) '20-21",
+      "Prestonian",
+      "President other offices '20-21"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_04.png"
+  },
+  {
+    "name": "Haddon, Sam T.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Prestonian",
+    "motto": "\"Sam is a man we look up to, In all his ways we find him true.\"",
+    "birthday": "",
+    "hometown": "Saltillo, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Secretary and Chaplain, Prestonian Society '20-21",
+      "President, Story Tellers' League and Old Testament Bible Class '21-22",
+      "Editorial Staff, Normal College News '21-22",
+      "Delegate, Blue Ridge, N. C. '21",
+      "Vice President, Y. M. C. A. '21-22",
+      "Editor-in-Chief, NEKANOM '21-22"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_05.png"
+  },
+  {
+    "name": "Herrington, Bessie Mae",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "Mississippian",
+    "motto": "\"She takes the Sunday with her Thru the week And sweetens with it All the other days.\"",
+    "birthday": "",
+    "hometown": "Heidelberg, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Member, Y. W. C. A.",
+      "Member, Mississippi Hall Story Tellers' League, Methods in Bible",
+      "Chairman, Private Prayer Circle"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_05.png"
+  },
+  {
+    "name": "James, Mattie",
+    "nicknames": [
+      "Sherwood Bonner"
+    ],
+    "gender": "Female",
+    "high school": "Centerville, Miss.",
+    "motto": "\"Her heart is as great as the world, but there is no room in it to hold the Memory of a wrong.\"",
+    "birthday": "",
+    "hometown": "Amite County",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Member, Social Committee and Y. W. C. A.",
+      "Member, Mississippi Hall Story Tellers' League",
+      "Member, Bible Classes (Bible Study and The Life of Christ) Tennis Club"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_05.png"
+  },
+  {
+    "name": "Lott, H. V.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Seminary, Miss.",
+    "motto": "\"The surest pledge of a deathless name is the silent homage of thoughts unspoken.\"",
+    "birthday": "",
+    "hometown": "Covington County",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Varsity Football Team '21",
+      "\"M\" Club '22",
+      "Basketball Squad '22",
+      "Baseball Squad '22"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_06.png"
+  },
+  {
+    "name": "Mattox, Otis A.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Fulton, Miss.",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Itawamba County",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [],
+    "description": "He has never been known to be impatient, disappointed or angry during his college years. His ambition is to live to be one hundred years of age.",
+    "image": "University of Southern Mississippi_1922_06.png"
+  },
+  {
+    "name": "Mattox, F. B.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Dorsey, Miss.",
+    "motto": "\"Study moments are as jewels, they reflect in the individual the shining light of knowledge.\"",
+    "birthday": "",
+    "hometown": "Lee County",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Vice President and President of Platonian Literary Society '17-18",
+      "Society Critic '20-21-22",
+      "Y. M. C. A. Cabinet '17-18",
+      "Assistant Editor NEKA CAMON '21-22"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_06.png"
+  },
+  {
+    "name": "McClesky, J. W.",
+    "nicknames": [
+      "Platonian"
+    ],
+    "gender": "Male",
+    "high school": "Forrest County",
+    "motto": "\"I have a heart with room for every joy.\"",
+    "birthday": "",
+    "hometown": "Hattiesburg, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Assistant College Engineer '21-22",
+      "Secretary Platonian Literary Society (twice)",
+      "Member Honor Council '21",
+      "Y. M. C. A. Cabinet '21-22",
+      "Varsity football '20-21-22",
+      "Orchestra '20-21-22",
+      "Band '21-22",
+      "Blue Ridge Delegate '21",
+      "Vice President Student Self Government '21",
+      "President Diploma Class '21-22"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_07.png"
+  },
+  {
+    "name": "Oaks, O. C.",
+    "nicknames": [
+      "Prestonian"
+    ],
+    "gender": "Male",
+    "high school": "Tishomingo County",
+    "motto": "\"Then he will talk. Ye gods, how he will talk.\"",
+    "birthday": "",
+    "hometown": "Tishomingo, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Society Critic '21-22",
+      "Y. M. C. A. Cabinet '20-21, '21-22",
+      "Auditor Student Government '20-21",
+      "Honor Council '21-22",
+      "Masonic Club",
+      "Editor of Normal College News '22"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_07.png"
+  },
+  {
+    "name": "Purvis, S. J.",
+    "nicknames": [
+      "Prestonian"
+    ],
+    "gender": "Male",
+    "high school": "Union County",
+    "motto": "\"The married man is no drone bee, He is the Guy in the Shute.\"",
+    "birthday": "",
+    "hometown": "New Albany, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "President Prestonian Literary Society '22",
+      "President Daddy's Club '22",
+      "Member of the House of Representatives '16-20"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_07.png"
+  },
+  {
+    "name": "Ritter, A. H.",
+    "nicknames": [
+      "Platonian"
+    ],
+    "gender": "Male",
+    "high school": "Amory, Miss.",
+    "motto": "\"He is genial in smile, agreeable in spirit and does good deeds that no other can do.\"",
+    "birthday": "",
+    "hometown": "Monroe County",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "President Platonian Society '20-21",
+      "Member of Y. M. C. A. Cabinet '21",
+      "Joined the Married Men's Club '22",
+      "Tennis Club '21"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_08.png"
+  },
+  {
+    "name": "Shipp, Amy Carl",
+    "nicknames": [
+      "Mississippian"
+    ],
+    "gender": "Female",
+    "high school": "Oxford, Miss.",
+    "motto": "\"Oh do not pray for easy lives. Pray to be stronger men! Do not pray for tasks equal to your powers, Pray for powers equal to your tasks.\"",
+    "birthday": "",
+    "hometown": "Lafayette County",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Member of Y. W. C. A.",
+      "Social Service Committee",
+      "Methods in Bible",
+      "Director of Private Prayer Circle",
+      "Vice President of Salsbury Scholarship Club"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_08.png"
+  },
+  {
+    "name": "Shirley, J. E.",
+    "nicknames": [
+      "Prestonian"
+    ],
+    "gender": "Male",
+    "high school": "Increase, Miss.",
+    "motto": "\"Sincere in thought, honest in action, With a heart ever kind and true.\"",
+    "birthday": "",
+    "hometown": "Clarke County",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Vice President Student Government",
+      "Vice President, Secretary, Chaplain Prestonian Literary Society",
+      "Vice President of Certificate Class '20-21",
+      "House Chairman of F. Co. Hall",
+      "Honor Council '21-22",
+      "Y. M. C. A. Cabinet '21-22",
+      "Varsity Baseball '20-21-22",
+      "Basketball '20-21"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_08.png"
+  },
+  {
+    "name": "Sigrest, Julia",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "Mississippian",
+    "motto": "\"Service is the greatest of all deeds.\"",
+    "birthday": "",
+    "hometown": "Hillsboro, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Literary Society",
+      "Story Tellers' League",
+      "Y. W. C. A."
+    ],
+    "description": "Julia is one of our busy members of the class. She is always found lending a helping hand in Literary Society, Story Tellers' League and Y. W. C. A. work.",
+    "image": "University of Southern Mississippi_1922_09.png"
+  },
+  {
+    "name": "Suggs, Joel D.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Platonian",
+    "motto": "",
+    "birthday": "",
+    "hometown": "Fulton, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Vice President of Platonian Literary Society '21-22",
+      "President of Literary Society '21-22",
+      "Vice President Student Government '21-22",
+      "Member of Y. M. C. A. Cabinet '21-22"
+    ],
+    "description": "Greatest hobby \"My wife.\"",
+    "image": "University of Southern Mississippi_1922_09.png"
+  },
+  {
+    "name": "Sumrall, T. D.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "Prestonian",
+    "motto": "\"Work some. Play some, and take social hour too, All make you happy and you will not be blue.\"",
+    "birthday": "",
+    "hometown": "Laurel, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Secretary and Vice President of Literary Society '21-22",
+      "Member of Honor Council '20-21",
+      "Varsity Football",
+      "\"M\" Club '21-22",
+      "Member of Y. M. C. A. Cabinet '21-22"
+    ],
+    "description": "",
+    "image": "University of Southern Mississippi_1922_09.png"
+  },
+  {
+    "name": "Bessie, Taylor",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "",
+    "motto": "\"Do what thy womanhood bids thee do. From none but self expect applause. The noblest lives and the noblest dies Who makes and keeps her selfmade laws.\"",
+    "birthday": "",
+    "hometown": "Dossville, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Home Economics Certificate Class",
+      "Y. W. C. A.",
+      "Mississippi Hall Story Tellers' League",
+      "Old Testament Bible Class",
+      "Sunday School Methods Class"
+    ],
+    "description": "Leake County.",
+    "image": "University of Southern Mississippi_1922_10.png"
+  },
+  {
+    "name": "Wells, Sallie Elizabeth",
+    "nicknames": [],
+    "gender": "Female",
+    "high school": "",
+    "motto": "\"Smooth runs the water where the brook is deep.\"",
+    "birthday": "",
+    "hometown": "Decatur, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Y. W. C. A. Cabinet '21-'22",
+      "Vice President Mississippian Literary Society, one term",
+      "Treasurer Diploma Class",
+      "Member of Dramatic Club"
+    ],
+    "description": "Newton County.",
+    "image": "University of Southern Mississippi_1922_10.png"
+  },
+  {
+    "name": "Williams, Walter B.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"The man with an idea has even changed the face of the world.\"",
+    "birthday": "",
+    "hometown": "Sandersville, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "Y. M. C. A.",
+      "Ex-Service Men's Club",
+      "Tennis Club",
+      "Jones County teacher"
+    ],
+    "description": "Walter is a loyal Prestonian.",
+    "image": "University of Southern Mississippi_1922_10.png"
+  },
+  {
+    "name": "Woods, Ernest H.",
+    "nicknames": [],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Who mixed wisdom with mirth, Work with play?\"",
+    "birthday": "",
+    "hometown": "Hattiesburg, Miss.",
+    "enrolltime": "",
+    "major": "Class",
+    "clubs": [
+      "President Platonian Literary Society",
+      "Y. M. C. A. Cabinet '19",
+      "Delegate International Y. M. C. A. Convention at Detroit '20",
+      "Honor Council '20-'21",
+      "Representative State Intercollegiate Oratorical Contest '20",
+      "Winner Inter-Society Oratorical Contest '21",
+      "Varsity Basketball '19",
+      "Football '21",
+      "Business Manager \"NEKA CAMON\" '21-'22"
+    ],
+    "description": "Forrest County.",
+    "image": "University of Southern Mississippi_1922_10.png"
+  }
+]

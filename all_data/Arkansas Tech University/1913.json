@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Pless, Lydia",
+    "nicknames": [
+      "Jim"
+    ],
+    "gender": "Female",
+    "high school": "",
+    "motto": "\"That's about the best there is\"",
+    "birthday": "",
+    "hometown": "Dover",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To be a country school mum. Hobby: Eating.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"That's about the best there is\"\nAmbition: To be a country school mum. Hobby: Eating.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.3",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Cook, Arthur",
+    "nicknames": [
+      "Buster"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"You bet cha\"",
+    "birthday": "",
+    "hometown": "Alma",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To be a D. S. Cook. Hobby: Teaching algebra.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"You bet cha\"\nAmbition: To be a D. S. Cook. Hobby: Teaching algebra.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.8"
+  },
+  {
+    "name": "Stroupe, Alman",
+    "nicknames": [
+      "Capum"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"We're going to --\"",
+    "birthday": "",
+    "hometown": "Paris",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To learn how to run an engine. Hobby: Visiting girls' north dormitory.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"We're going to --\"\nAmbition: To learn how to run an engine. Hobby: Visiting girls' north dormitory.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Andrus, Hazel",
+    "nicknames": [
+      "Midge"
+    ],
+    "gender": "Female",
+    "high school": "",
+    "motto": "\"Why land sakes!\"",
+    "birthday": "",
+    "hometown": "Grady",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To go to school always. Hobby: D. S. work.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"Why land sakes!\"\nAmbition: To go to school always. Hobby: D. S. work.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Russell, Ewing",
+    "nicknames": [
+      "Silas"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Yeh\"",
+    "birthday": "",
+    "hometown": "Bellefonte",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To be a real farmer. Hobby: Washing dishes.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"Yeh\"\nAmbition: To be a real farmer. Hobby: Washing dishes.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Hixon, Austin",
+    "nicknames": [
+      "Hick"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Yeh, guess so\"",
+    "birthday": "",
+    "hometown": "Paris",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To be the fastest man on the team. Hobby: Waiting tables.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"Yeh, guess so\"\nAmbition: To be the fastest man on the team. Hobby: Waiting tables.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.6",
+    "Ability": "0.4"
+  },
+  {
+    "name": "Dickey, Grover",
+    "nicknames": [
+      "Bro. Dickey"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Now look here\"",
+    "birthday": "",
+    "hometown": "Branch",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To be a lawyer. Hobby: Doing farm work.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"Now look here\"\nAmbition: To be a lawyer. Hobby: Doing farm work.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Power, Magnolia",
+    "nicknames": [
+      "Maggie"
+    ],
+    "gender": "Female",
+    "high school": "",
+    "motto": "\"Don't like it\"",
+    "birthday": "",
+    "hometown": "Magazine",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To teach Domestic Art. Hobby: Doing good.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"Don't like it\"\nAmbition: To teach Domestic Art. Hobby: Doing good.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.3"
+  },
+  {
+    "name": "Bates, Herman",
+    "nicknames": [
+      "Herm"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Search me\"",
+    "birthday": "",
+    "hometown": "Fort Smith",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To be an ideal hubby. Hobby: Playing ball.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"Search me\"\nAmbition: To be an ideal hubby. Hobby: Playing ball.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Gardner, Conway",
+    "nicknames": [
+      "Old Seeper"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"HO! HOO\"",
+    "birthday": "",
+    "hometown": "Tupelo",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To be a big lawyer. Hobby: Milking the cows.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"HO! HOO\"\nAmbition: To be a big lawyer. Hobby: Milking the cows.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Pless, Ilah",
+    "nicknames": [
+      "Ike"
+    ],
+    "gender": "Female",
+    "high school": "",
+    "motto": "\"What chu know bout that\"",
+    "birthday": "",
+    "hometown": "Dover",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To be a Paderewski. Hobby: Working with the fruit.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"What chu know bout that\"\nAmbition: To be a Paderewski. Hobby: Working with the fruit.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Shinn, Roy",
+    "nicknames": [
+      "L. R"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"That won't do\"",
+    "birthday": "",
+    "hometown": "Pottsville",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To be a big fruit farmer. Hobby: Visiting Dover.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"That won't do\"\nAmbition: To be a big fruit farmer. Hobby: Visiting Dover.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.2",
+    "Ability": "0.1"
+  },
+  {
+    "name": "Hicks, William",
+    "nicknames": [
+      "Grandpa"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Now that calls for another question\"",
+    "birthday": "",
+    "hometown": "Lonoke",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To be a market gardener. Hobby: Asking questions.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"Now that calls for another question\"\nAmbition: To be a market gardener. Hobby: Asking questions.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.8",
+    "Ability": "0.2"
+  },
+  {
+    "name": "Baskan, Berta",
+    "nicknames": [
+      "Pat"
+    ],
+    "gender": "Female",
+    "high school": "",
+    "motto": "\"I don't care\"",
+    "birthday": "",
+    "hometown": "Harmony",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To go west. Hobby: Working in the garden.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"I don't care\"\nAmbition: To go west. Hobby: Working in the garden.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.3"
+  },
+  {
+    "name": "Dorman, Jesse",
+    "nicknames": [
+      "J. B"
+    ],
+    "gender": "Male",
+    "high school": "",
+    "motto": "\"Just you wait\"",
+    "birthday": "",
+    "hometown": "Mineola, Tex.",
+    "enrolltime": "",
+    "major": "Senior",
+    "clubs": [],
+    "description": "Ambition: To be an editor. Hobby: Teaching Animal Husbandry.",
+    "University": "Arkansas Tech University",
+    "year": 1913,
+    "text": "\"Just you wait\"\nAmbition: To be an editor. Hobby: Teaching Animal Husbandry.",
+    "Appearance": "0.0",
+    "Character_Personality": "0.7",
+    "Ability": "0.8"
+  }
+]
