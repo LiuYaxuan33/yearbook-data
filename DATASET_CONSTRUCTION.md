@@ -91,8 +91,8 @@ Yearbook PDFs (Google Drive)
         │
         ▼
 ┌──────────────────┐
-│  code/ocr.py     │  OpenAI Vision API (gemini-3-flash-preview)
-│  OCR extraction  │  via jeniya.cn proxy
+│ codes/use_ocr.py │  Gemini-3 vision model
+│ direct JSON      │  via OpenAI-compatible API
 └──────────────────┘
         │
         ▼
@@ -194,8 +194,8 @@ yearbook-data-repo/
 ├── DATASET_CONSTRUCTION.md                 # This document
 ├── .gitignore
 │
-├── code/
-│   └── ocr.py                              # OCR script (OpenAI Vision API)
+├── codes/
+│   └── use_ocr.py                          # Gemini OCR + direct structured JSON extraction
 │
 ├── text_data.json                          # Raw OCR'd yearbook text (~17K records, 20 MB)
 │
@@ -227,7 +227,7 @@ yearbook-data-repo/
 
 ```bash
 conda activate Yearbook_Project
-pip install openai
+pip install openai pillow python-dotenv
 ```
 
-Only `openai` is needed for the OCR script in this repo.
+The OCR script uses the OpenAI client against Gemini's OpenAI-compatible API.

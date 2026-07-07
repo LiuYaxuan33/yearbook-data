@@ -6,20 +6,18 @@ Research dataset for studying gendered language patterns in US college yearbooks
 
 ```bash
 conda activate Yearbook_Project
-pip install openai
+pip install openai pillow python-dotenv
 ```
 
-### Run OCR on a yearbook page image
+### Run OCR on yearbook page images
 
 ```bash
-export OCR_API_KEY="your-api-key"
-python code/ocr.py --image path/to/page.jpg --mode 3 --output result.csv
+export GEMINI_API_KEY="your-api-key"
+python codes/use_ocr.py -i path/to/pages -o outputs/result.json
 ```
 
-Three OCR modes:
-- `--mode 1`: Traditional Chinese vertical text
-- `--mode 2`: Table gender classification (all-male / all-female / coed)
-- `--mode 3` (default): Statistical table → CSV
+The OCR script calls Gemini once per image and writes structured JSON directly.
+The default model is `gemini-3-flash-preview`; override it with `--model` or `GEMINI_MODEL`.
 
 ## Repository structure
 
@@ -28,8 +26,8 @@ Three OCR modes:
 ├── DATASET_CONSTRUCTION.md              # Full documentation
 ├── .gitignore
 │
-├── code/
-│   └── ocr.py                           # OCR extraction (OpenAI Vision API)
+├── codes/
+│   └── use_ocr.py                       # Gemini OCR + direct structured JSON extraction
 │
 ├── text_data.json                       # Raw OCR'd yearbook text (~17K records, 20 MB)
 │
