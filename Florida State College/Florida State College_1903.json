@@ -1,0 +1,801 @@
+[
+  {
+    "name": "Henrietta Ord Ames",
+    "nicknames": [],
+    "gender_by_name": "Female",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Senior Class",
+    "clubs": [
+      "President"
+    ],
+    "description": "",
+    "image": "1903 - 0001.png"
+  },
+  {
+    "name": "Alice F. Apthorp",
+    "nicknames": [],
+    "gender_by_name": "Female",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Senior Class",
+    "clubs": [
+      "Historian"
+    ],
+    "description": "",
+    "image": "1903 - 0001.png"
+  },
+  {
+    "name": "Guy Louis Winthrop",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Senior Class",
+    "clubs": [
+      "Treasurer"
+    ],
+    "description": "",
+    "image": "1903 - 0001.png"
+  },
+  {
+    "name": "Benjamin A. Meginnis",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Senior Class",
+    "clubs": [
+      "Poet"
+    ],
+    "description": "",
+    "image": "1903 - 0001.png"
+  },
+  {
+    "name": "Francis B. Winthrop",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Senior Class",
+    "clubs": [
+      "Orator"
+    ],
+    "description": "",
+    "image": "1903 - 0001.png"
+  },
+  {
+    "name": "Apthorp, A. F.",
+    "nicknames": [],
+    "gender_by_name": "Female",
+    "gender_by_portrait": "Female",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Senior Class",
+    "clubs": [
+      "Officers Senior Class"
+    ],
+    "description": "",
+    "image": "1903 - 0002.png"
+  },
+  {
+    "name": "Ames, H. O.",
+    "nicknames": [],
+    "gender_by_name": "Female",
+    "gender_by_portrait": "Female",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Senior Class",
+    "clubs": [
+      "Officers Senior Class"
+    ],
+    "description": "",
+    "image": "1903 - 0002.png"
+  },
+  {
+    "name": "Winthrop, G. L.",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Senior Class",
+    "clubs": [
+      "Officers Senior Class"
+    ],
+    "description": "",
+    "image": "1903 - 0002.png"
+  },
+  {
+    "name": "Winthrop, F. B.",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Senior Class",
+    "clubs": [
+      "Officers Senior Class"
+    ],
+    "description": "",
+    "image": "1903 - 0002.png"
+  },
+  {
+    "name": "Meginniss, B. A.",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Male",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Senior Class",
+    "clubs": [
+      "Officers Senior Class"
+    ],
+    "description": "",
+    "image": "1903 - 0002.png"
+  },
+  {
+    "name": "E. P. Watson",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Junior Class",
+    "clubs": [
+      "President"
+    ],
+    "description": "",
+    "image": "1903 - 0003.png"
+  },
+  {
+    "name": "H. G. Hays",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Junior Class",
+    "clubs": [
+      "Vice-President"
+    ],
+    "description": "",
+    "image": "1903 - 0003.png"
+  },
+  {
+    "name": "William P. Byrd",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Junior Class",
+    "clubs": [
+      "Historian"
+    ],
+    "description": "",
+    "image": "1903 - 0003.png"
+  },
+  {
+    "name": "Rosa Herring",
+    "nicknames": [],
+    "gender_by_name": "Female",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Junior Class",
+    "clubs": [
+      "Treasurer"
+    ],
+    "description": "",
+    "image": "1903 - 0003.png"
+  },
+  {
+    "name": "G. A. Stephens",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Junior Class",
+    "clubs": [
+      "Poet"
+    ],
+    "description": "",
+    "image": "1903 - 0003.png"
+  },
+  {
+    "name": "W. H. Provence",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Junior Class",
+    "clubs": [
+      "Orator"
+    ],
+    "description": "",
+    "image": "1903 - 0003.png"
+  },
+  {
+    "name": "David M. Cook",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Sophomore Class",
+    "clubs": [
+      "President"
+    ],
+    "description": "",
+    "image": "1903 - 0005.png"
+  },
+  {
+    "name": "Bershe Archer Meginniss",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Sophomore Class",
+    "clubs": [
+      "Historian"
+    ],
+    "description": "",
+    "image": "1903 - 0005.png"
+  },
+  {
+    "name": "Francis Flagg Rawls",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Sophomore Class",
+    "clubs": [
+      "Treasurer"
+    ],
+    "description": "",
+    "image": "1903 - 0005.png"
+  },
+  {
+    "name": "Sarah Lucile Saxon",
+    "nicknames": [],
+    "gender_by_name": "Female",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Sophomore Class",
+    "clubs": [
+      "Poet"
+    ],
+    "description": "",
+    "image": "1903 - 0005.png"
+  },
+  {
+    "name": "Ruby Pearl Diamond",
+    "nicknames": [],
+    "gender_by_name": "Female",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Sophomore Class",
+    "clubs": [
+      "Orator"
+    ],
+    "description": "",
+    "image": "1903 - 0005.png"
+  },
+  {
+    "name": "C. W. Peters",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Freshman Class",
+    "clubs": [
+      "President"
+    ],
+    "description": "",
+    "image": "1903 - 0006.png"
+  },
+  {
+    "name": "A. C. Evans",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Freshman Class",
+    "clubs": [
+      "Historian"
+    ],
+    "description": "",
+    "image": "1903 - 0006.png"
+  },
+  {
+    "name": "W. E. Van Brunt",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Freshman Class",
+    "clubs": [
+      "Treasurer"
+    ],
+    "description": "",
+    "image": "1903 - 0006.png"
+  },
+  {
+    "name": "Peres McDougall",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Freshman Class",
+    "clubs": [
+      "Poet"
+    ],
+    "description": "",
+    "image": "1903 - 0006.png"
+  },
+  {
+    "name": "J. T. Howard",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Freshman Class",
+    "clubs": [
+      "Orator"
+    ],
+    "description": "",
+    "image": "1903 - 0006.png"
+  },
+  {
+    "name": "George H. Skermer",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Third Year Class",
+    "clubs": [
+      "President"
+    ],
+    "description": "",
+    "image": "1903 - 0007.png"
+  },
+  {
+    "name": "Carrie Thompson",
+    "nicknames": [],
+    "gender_by_name": "Female",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Third Year Class",
+    "clubs": [
+      "Historian"
+    ],
+    "description": "",
+    "image": "1903 - 0007.png"
+  },
+  {
+    "name": "Samuel Sanborn",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Third Year Class",
+    "clubs": [
+      "Treasurer"
+    ],
+    "description": "",
+    "image": "1903 - 0007.png"
+  },
+  {
+    "name": "Alma Argie Cates",
+    "nicknames": [],
+    "gender_by_name": "Female",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Third Year Class",
+    "clubs": [
+      "Poet"
+    ],
+    "description": "",
+    "image": "1903 - 0007.png"
+  },
+  {
+    "name": "Thomas Hancock",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Third Year Class",
+    "clubs": [
+      "Orator"
+    ],
+    "description": "",
+    "image": "1903 - 0007.png"
+  },
+  {
+    "name": "Clifton Byrd",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Second Year Class",
+    "clubs": [
+      "President"
+    ],
+    "description": "",
+    "image": "1903 - 0008.png"
+  },
+  {
+    "name": "Malcolm N. Herndon",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Second Year Class",
+    "clubs": [
+      "Historian"
+    ],
+    "description": "",
+    "image": "1903 - 0008.png"
+  },
+  {
+    "name": "George B. Ames",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Second Year Class",
+    "clubs": [
+      "Treasurer"
+    ],
+    "description": "",
+    "image": "1903 - 0008.png"
+  },
+  {
+    "name": "Bert Durr",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Second Year Class",
+    "clubs": [
+      "Poet"
+    ],
+    "description": "",
+    "image": "1903 - 0008.png"
+  },
+  {
+    "name": "Abram B. McDougall",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Second Year Class",
+    "clubs": [
+      "Orator"
+    ],
+    "description": "",
+    "image": "1903 - 0008.png"
+  },
+  {
+    "name": "Wallace Quarterman",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "First Year Class",
+    "clubs": [
+      "President"
+    ],
+    "description": "",
+    "image": "1903 - 0009.png"
+  },
+  {
+    "name": "Everett Lewis",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "First Year Class",
+    "clubs": [
+      "Historian"
+    ],
+    "description": "",
+    "image": "1903 - 0009.png"
+  },
+  {
+    "name": "Linwood Evans",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "First Year Class",
+    "clubs": [
+      "Treasurer"
+    ],
+    "description": "",
+    "image": "1903 - 0009.png"
+  },
+  {
+    "name": "Bert Durr",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "First Year Class",
+    "clubs": [
+      "Poet"
+    ],
+    "description": "",
+    "image": "1903 - 0009.png"
+  },
+  {
+    "name": "Boliver McMullen",
+    "nicknames": [],
+    "gender_by_name": "Male",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "First Year Class",
+    "clubs": [
+      "Orator"
+    ],
+    "description": "",
+    "image": "1903 - 0009.png"
+  },
+  {
+    "name": "J. S. PETERS",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Normal Class",
+    "clubs": [
+      "President"
+    ],
+    "description": "",
+    "image": "1903 - 0010.png"
+  },
+  {
+    "name": "G. H. SKERMER",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Normal Class",
+    "clubs": [
+      "Vice-President"
+    ],
+    "description": "",
+    "image": "1903 - 0010.png"
+  },
+  {
+    "name": "SUSIE C. MIMS",
+    "nicknames": [],
+    "gender_by_name": "Female",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Normal Class",
+    "clubs": [
+      "Secretary and Treasurer"
+    ],
+    "description": "",
+    "image": "1903 - 0010.png"
+  },
+  {
+    "name": "IRENE BREWER",
+    "nicknames": [],
+    "gender_by_name": "Female",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Normal Class",
+    "clubs": [
+      "Historian"
+    ],
+    "description": "",
+    "image": "1903 - 0010.png"
+  },
+  {
+    "name": "H. B. FLETCHER",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Normal Class",
+    "clubs": [
+      "Orator"
+    ],
+    "description": "",
+    "image": "1903 - 0010.png"
+  },
+  {
+    "name": "G. W. GEIGER",
+    "nicknames": [],
+    "gender_by_name": "Unknown",
+    "gender_by_portrait": "Unknown",
+    "high school": "",
+    "motto": "",
+    "birthday": "",
+    "hometown": "",
+    "enrolltime": "",
+    "major": "Normal Class",
+    "clubs": [
+      "Poet"
+    ],
+    "description": "",
+    "image": "1903 - 0010.png"
+  }
+]
